@@ -9,14 +9,18 @@ Utilizing [Basketball-Reference](https://www.basketball-reference.com/) I have c
 
 ##### 2024_basketball_reference_gamelog.csv
 -contains gamelogs for each team from the 2024 season
+-built in gamelog_data_scraping notebook
 
 ##### 2024_basketball_reference_gamelog-advanced.csv
 -contains advanced gamelog data for each team from the 2024 season
+-built in gamelog_advanced_data_scraping notebook
 
 ##### 2024_player_gamelogs.csv
 -contains gamelog data for each player that played in the 2024 season
+-built in player_2024_gamelogs notebook
 
 ##### player_data.csv
 -contains player data for each player that played in the 2024 season
 -data is broken down by season and also contains a career breakdown
 -tables used in this data include Per Game (per_game), Per 36 Minutes (per_minute), Per 100 Poss (per_poss), Advanced (advanced), Play-by-Play (pbp), Shooting (shooting)
+-built in player_data notebook
