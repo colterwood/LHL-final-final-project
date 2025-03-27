@@ -1,0 +1,2211 @@
+Model,Feature,Target,Importance
+PHO,Satou Sabally,team_score,0.0
+PHO,Odyssey Sims,team_score,0.0
+PHO,Odyssey Sims,opp_score,0.0
+PHO,Rhyne Howard,team_score,0.0
+PHO,Rhyne Howard,opp_score,0.0
+PHO,Temi Fagbenle,opp_score,0.0
+PHO,Tina Charles,team_score,0.0
+PHO,Tina Charles,opp_score,0.0
+PHO,Rickea Jackson,opp_score,0.0
+PHO,Sabrina Ionescu,team_score,0.0
+PHO,Sabrina Ionescu,opp_score,0.0
+PHO,Nneka Ogwumike,opp_score,0.0
+PHO,Satou Sabally,opp_score,0.0
+PHO,Shatori Walker-Kimbrough,team_score,0.0
+PHO,Shatori Walker-Kimbrough,opp_score,0.0
+PHO,Skylar Diggins-Smith,team_score,0.0
+PHO,Skylar Diggins-Smith,opp_score,0.0
+PHO,Sophie Cunningham,team_score,0.0
+PHO,Sophie Cunningham,opp_score,0.0
+PHO,Stefanie Dolson,team_score,0.0
+PHO,Stefanie Dolson,opp_score,0.0
+PHO,Teaira McCowan,opp_score,0.0
+PHO,Kelsey Mitchell,opp_score,0.0
+PHO,Kelsey Plum,team_score,0.0
+PHO,Kelsey Plum,opp_score,0.0
+PHO,Kiah Stokes,team_score,0.0
+PHO,Kiah Stokes,opp_score,0.0
+PHO,Leonie Fiebich,team_score,0.0
+PHO,Leonie Fiebich,opp_score,0.0
+PHO,Marina Mabrey,team_score,0.0
+PHO,Teaira McCowan,team_score,0.0
+IND,Shatori Walker-Kimbrough,opp_score,0.0
+PHO,Temi Fagbenle,team_score,0.0
+PHO,NaLyssa Smith,opp_score,0.0
+PHO,Napheesa Collier,team_score,0.0
+PHO,Napheesa Collier,opp_score,0.0
+PHO,Natasha Howard,team_score,0.0
+PHO,Natasha Howard,opp_score,0.0
+PHO,Naz Hillmon,team_score,0.0
+PHO,Naz Hillmon,opp_score,0.0
+PHO,Nneka Ogwumike,team_score,0.0
+IND,Satou Sabally,opp_score,0.0
+IND,Rebecca Allen,team_score,0.0
+IND,Rebecca Allen,opp_score,0.0
+IND,Rhyne Howard,team_score,0.0
+IND,Rhyne Howard,opp_score,0.0
+IND,Rickea Jackson,team_score,0.0
+IND,Rickea Jackson,opp_score,0.0
+IND,Sabrina Ionescu,team_score,0.0
+IND,Sabrina Ionescu,opp_score,0.0
+IND,Satou Sabally,team_score,0.0
+IND,Odyssey Sims,opp_score,0.0
+IND,Shatori Walker-Kimbrough,team_score,0.0
+IND,Kiah Stokes,opp_score,0.0
+IND,Leonie Fiebich,team_score,0.0
+IND,Leonie Fiebich,opp_score,0.0
+IND,Marina Mabrey,team_score,0.0
+IND,Marina Mabrey,opp_score,0.0
+IND,Monique Billings,team_score,0.0
+IND,Monique Billings,opp_score,0.0
+IND,Myisha Hines-Allen,team_score,0.0
+IND,Tina Charles,opp_score,0.0
+IND,Skylar Diggins-Smith,team_score,0.0
+IND,Skylar Diggins-Smith,opp_score,0.0
+IND,Sophie Cunningham,team_score,0.0
+IND,Sophie Cunningham,opp_score,0.0
+IND,Stefanie Dolson,team_score,0.0
+IND,Stefanie Dolson,opp_score,0.0
+IND,Teaira McCowan,team_score,0.0
+IND,Teaira McCowan,opp_score,0.0
+IND,Tina Charles,team_score,0.0
+PHO,Kelsey Mitchell,team_score,0.0
+SEA,A'ja Wilson,team_score,0.0
+SEA,A'ja Wilson,opp_score,0.0
+SEA,Aaliyah Edwards,team_score,0.0
+SEA,Aaliyah Edwards,opp_score,0.0
+SEA,Aari McDonald,team_score,0.0
+IND,Naz Hillmon,opp_score,0.0
+IND,Nneka Ogwumike,team_score,0.0
+IND,Nneka Ogwumike,opp_score,0.0
+IND,Odyssey Sims,team_score,0.0
+LAS,DeWanna Bonner,opp_score,0.0
+LAS,Kelsey Mitchell,opp_score,0.0
+LAS,Kelsey Plum,team_score,0.0
+LAS,Kelsey Plum,opp_score,0.0
+LAS,Kiah Stokes,team_score,0.0
+LAS,Kiah Stokes,opp_score,0.0
+LAS,Chennedy Carter,team_score,0.0
+LAS,Chennedy Carter,opp_score,0.0
+LAS,Cheyenne Parker-Tyus,team_score,0.0
+LAS,Cheyenne Parker-Tyus,opp_score,0.0
+LAS,DeWanna Bonner,team_score,0.0
+LAS,Kelsey Mitchell,team_score,0.0
+LAS,Dearica Hamby,team_score,0.0
+LAS,Dearica Hamby,opp_score,0.0
+LAS,Diana Taurasi,team_score,0.0
+LAS,Diana Taurasi,opp_score,0.0
+LAS,Elizabeth Williams,team_score,0.0
+LAS,Elizabeth Williams,opp_score,0.0
+LAS,Ezi Magbegor,team_score,0.0
+LAS,Ezi Magbegor,opp_score,0.0
+LAS,Jackie Young,team_score,0.0
+LAS,Jonquel Jones,team_score,0.0
+LAS,Myisha Hines-Allen,opp_score,0.0
+LAS,NaLyssa Smith,team_score,0.0
+LAS,NaLyssa Smith,opp_score,0.0
+LAS,Napheesa Collier,team_score,0.0
+LAS,Napheesa Collier,opp_score,0.0
+LAS,Natasha Howard,team_score,0.0
+LAS,Natasha Howard,opp_score,0.0
+LAS,Naz Hillmon,team_score,0.0
+LAS,Naz Hillmon,opp_score,0.0
+LAS,Jackie Young,opp_score,0.0
+LAS,Jonquel Jones,opp_score,0.0
+LAS,Jordan Horston,team_score,0.0
+LAS,Jordan Horston,opp_score,0.0
+LAS,Kahleah Copper,team_score,0.0
+LAS,Kahleah Copper,opp_score,0.0
+LAS,Kamilla Cardoso,team_score,0.0
+LAS,Kamilla Cardoso,opp_score,0.0
+LAS,Kayla McBride,team_score,0.0
+LAS,Kayla McBride,opp_score,0.0
+LAS,Alyssa Thomas,opp_score,0.0
+PHO,NaLyssa Smith,team_score,0.0
+LAS,Alanna Smith,opp_score,0.0
+LAS,Aliyah Boston,team_score,0.0
+LAS,Aliyah Boston,opp_score,0.0
+LAS,Allisha Gray,team_score,0.0
+LAS,Allisha Gray,opp_score,0.0
+LAS,Alysha Clark,team_score,0.0
+LAS,Alysha Clark,opp_score,0.0
+LAS,Alyssa Thomas,team_score,0.0
+PHO,Myisha Hines-Allen,opp_score,0.0
+LAS,Angel Reese,team_score,0.0
+LAS,Angel Reese,opp_score,0.0
+PHO,Rickea Jackson,team_score,0.0
+LAS,A'ja Wilson,team_score,0.0
+LAS,A'ja Wilson,opp_score,0.0
+LAS,Aaliyah Edwards,team_score,0.0
+LAS,Aaliyah Edwards,opp_score,0.0
+LAS,Alanna Smith,team_score,0.0
+PHO,Kayla McBride,opp_score,0.0
+LAS,Brionna Jones,opp_score,0.0
+LAS,Ariel Atkins,team_score,0.0
+LAS,Ariel Atkins,opp_score,0.0
+LAS,Arike Ogunbowale,team_score,0.0
+LAS,Arike Ogunbowale,opp_score,0.0
+LAS,Breanna Stewart,team_score,0.0
+LAS,Breanna Stewart,opp_score,0.0
+LAS,Bridget Carleton,team_score,0.0
+LAS,Bridget Carleton,opp_score,0.0
+LAS,Brionna Jones,team_score,0.0
+IND,Myisha Hines-Allen,opp_score,0.0
+LAS,Brittney Griner,team_score,0.0
+LAS,Brittney Griner,opp_score,0.0
+LAS,Caitlin Clark,team_score,0.0
+LAS,Caitlin Clark,opp_score,0.0
+LAS,Chelsea Gray,team_score,0.0
+LAS,Chelsea Gray,opp_score,0.0
+PHO,Marina Mabrey,opp_score,0.0
+MIN,Kamilla Cardoso,team_score,0.0
+PHO,Myisha Hines-Allen,team_score,0.0
+SEA,Diana Taurasi,opp_score,0.0
+SEA,Alanna Smith,team_score,0.0
+SEA,Alanna Smith,opp_score,0.0
+SEA,Aliyah Boston,team_score,0.0
+SEA,Cheyenne Parker-Tyus,team_score,0.0
+SEA,Cheyenne Parker-Tyus,opp_score,0.0
+SEA,DeWanna Bonner,team_score,0.0
+SEA,DeWanna Bonner,opp_score,0.0
+SEA,Dearica Hamby,team_score,0.0
+SEA,Dearica Hamby,opp_score,0.0
+SEA,Diana Taurasi,team_score,0.0
+SEA,Aari McDonald,opp_score,0.0
+SEA,Elizabeth Williams,team_score,0.0
+SEA,Elizabeth Williams,opp_score,0.0
+SEA,Jackie Young,team_score,0.0
+SEA,Arike Ogunbowale,opp_score,0.0
+SEA,Azura Stevens,team_score,0.0
+SEA,Azura Stevens,opp_score,0.0
+SEA,Breanna Stewart,team_score,0.0
+SEA,Breanna Stewart,opp_score,0.0
+SEA,Jonquel Jones,opp_score,0.0
+SEA,Brionna Jones,team_score,0.0
+SEA,Ariel Atkins,team_score,0.0
+SEA,Ariel Atkins,opp_score,0.0
+SEA,Arike Ogunbowale,team_score,0.0
+IND,A'ja Wilson,opp_score,0.0
+IND,Aaliyah Edwards,team_score,0.0
+IND,Aaliyah Edwards,opp_score,0.0
+IND,Aari McDonald,team_score,0.0
+SEA,Bridget Carleton,team_score,0.0
+SEA,Bridget Carleton,opp_score,0.0
+MIN,Kahleah Copper,opp_score,0.0
+SEA,Brionna Jones,opp_score,0.0
+SEA,Brittney Griner,team_score,0.0
+SEA,Brittney Griner,opp_score,0.0
+SEA,Caitlin Clark,team_score,0.0
+SEA,Caitlin Clark,opp_score,0.0
+SEA,Cameron Brink,team_score,0.0
+SEA,Cameron Brink,opp_score,0.0
+SEA,Chelsea Gray,team_score,0.0
+IND,A'ja Wilson,team_score,0.0
+DAL,NaLyssa Smith,team_score,0.0
+DAL,Stefanie Dolson,team_score,0.0
+DAL,Stefanie Dolson,opp_score,0.0
+DAL,Teaira McCowan,team_score,0.0
+DAL,Temi Fagbenle,team_score,0.0
+DAL,Temi Fagbenle,opp_score,0.0
+DAL,Tina Charles,team_score,0.0
+DAL,Tina Charles,opp_score,0.0
+SEA,Jackie Young,opp_score,0.0
+SEA,Jonquel Jones,team_score,0.0
+DAL,Sophie Cunningham,opp_score,0.0
+DAL,NaLyssa Smith,opp_score,0.0
+DAL,Napheesa Collier,team_score,0.0
+DAL,Napheesa Collier,opp_score,0.0
+DAL,Naz Hillmon,team_score,0.0
+DAL,Naz Hillmon,opp_score,0.0
+DAL,Nneka Ogwumike,team_score,0.0
+DAL,Nneka Ogwumike,opp_score,0.0
+DAL,Rebecca Allen,opp_score,0.0
+DAL,Rhyne Howard,team_score,0.0
+SEA,Kelsey Plum,opp_score,0.0
+SEA,Kahleah Copper,team_score,0.0
+SEA,Kahleah Copper,opp_score,0.0
+SEA,Kamilla Cardoso,team_score,0.0
+SEA,Kamilla Cardoso,opp_score,0.0
+SEA,Kayla McBride,team_score,0.0
+SEA,Kayla McBride,opp_score,0.0
+SEA,Kelsey Mitchell,team_score,0.0
+SEA,Kelsey Mitchell,opp_score,0.0
+SEA,Kelsey Plum,team_score,0.0
+SEA,Angel Reese,opp_score,0.0
+SEA,Kiah Stokes,team_score,0.0
+SEA,Chelsea Gray,opp_score,0.0
+SEA,Chennedy Carter,team_score,0.0
+SEA,Chennedy Carter,opp_score,0.0
+DAL,Shatori Walker-Kimbrough,team_score,0.0
+DAL,Shatori Walker-Kimbrough,opp_score,0.0
+DAL,Skylar Diggins-Smith,team_score,0.0
+DAL,Skylar Diggins-Smith,opp_score,0.0
+DAL,Sophie Cunningham,team_score,0.0
+IND,DeWanna Bonner,opp_score,0.0
+IND,Kelsey Plum,team_score,0.0
+IND,Kelsey Plum,opp_score,0.0
+IND,Kiah Stokes,team_score,0.0
+IND,Chelsea Gray,opp_score,0.0
+IND,Chennedy Carter,team_score,0.0
+IND,Chennedy Carter,opp_score,0.0
+IND,Cheyenne Parker-Tyus,team_score,0.0
+IND,Cheyenne Parker-Tyus,opp_score,0.0
+IND,DeWanna Bonner,team_score,0.0
+IND,Kelsey Mitchell,opp_score,0.0
+IND,Dearica Hamby,team_score,0.0
+IND,Dearica Hamby,opp_score,0.0
+IND,Diana Taurasi,team_score,0.0
+IND,Diana Taurasi,opp_score,0.0
+IND,Elizabeth Williams,team_score,0.0
+IND,Elizabeth Williams,opp_score,0.0
+IND,Ezi Magbegor,team_score,0.0
+IND,Ezi Magbegor,opp_score,0.0
+IND,Jackie Young,team_score,0.0
+IND,Jonquel Jones,opp_score,0.0
+IND,NaLyssa Smith,team_score,0.0
+IND,NaLyssa Smith,opp_score,0.0
+IND,Napheesa Collier,team_score,0.0
+IND,Napheesa Collier,opp_score,0.0
+IND,Natasha Howard,team_score,0.0
+IND,Natasha Howard,opp_score,0.0
+IND,Naz Hillmon,team_score,0.0
+IND,Jackie Young,opp_score,0.0
+IND,Jonquel Jones,team_score,0.0
+IND,Arike Ogunbowale,opp_score,0.0
+IND,Jordan Horston,team_score,0.0
+IND,Jordan Horston,opp_score,0.0
+IND,Kahleah Copper,team_score,0.0
+IND,Kahleah Copper,opp_score,0.0
+IND,Kamilla Cardoso,team_score,0.0
+IND,Kamilla Cardoso,opp_score,0.0
+IND,Kayla McBride,team_score,0.0
+IND,Kayla McBride,opp_score,0.0
+IND,Kelsey Mitchell,team_score,0.0
+IND,Ariel Atkins,opp_score,0.0
+IND,Allisha Gray,team_score,0.0
+IND,Allisha Gray,opp_score,0.0
+IND,Alysha Clark,team_score,0.0
+IND,Alysha Clark,opp_score,0.0
+IND,Alyssa Thomas,team_score,0.0
+IND,Alyssa Thomas,opp_score,0.0
+IND,Angel Reese,team_score,0.0
+IND,Angel Reese,opp_score,0.0
+IND,Ariel Atkins,team_score,0.0
+IND,Aliyah Boston,opp_score,0.0
+IND,Arike Ogunbowale,team_score,0.0
+SEA,Aliyah Boston,opp_score,0.0
+SEA,Allisha Gray,team_score,0.0
+SEA,Allisha Gray,opp_score,0.0
+SEA,Alysha Clark,team_score,0.0
+SEA,Alysha Clark,opp_score,0.0
+SEA,Alyssa Thomas,team_score,0.0
+SEA,Alyssa Thomas,opp_score,0.0
+SEA,Angel Reese,team_score,0.0
+IND,Brittney Griner,opp_score,0.0
+IND,Azura Stevens,team_score,0.0
+IND,Azura Stevens,opp_score,0.0
+IND,Breanna Stewart,team_score,0.0
+IND,Breanna Stewart,opp_score,0.0
+IND,Bridget Carleton,team_score,0.0
+IND,Bridget Carleton,opp_score,0.0
+IND,Brionna Jones,team_score,0.0
+IND,Brionna Jones,opp_score,0.0
+IND,Brittney Griner,team_score,0.0
+LAS,Myisha Hines-Allen,team_score,0.0
+IND,Caitlin Clark,team_score,0.0
+IND,Caitlin Clark,opp_score,0.0
+IND,Cameron Brink,team_score,0.0
+IND,Cameron Brink,opp_score,0.0
+IND,Chelsea Gray,team_score,0.0
+IND,Aari McDonald,opp_score,0.0
+IND,Alanna Smith,team_score,0.0
+IND,Alanna Smith,opp_score,0.0
+IND,Aliyah Boston,team_score,0.0
+LVA,Skylar Diggins-Smith,team_score,0.0
+NYL,Satou Sabally,opp_score,0.0
+NYL,Shatori Walker-Kimbrough,team_score,0.0
+NYL,Shatori Walker-Kimbrough,opp_score,0.0
+NYL,Skylar Diggins-Smith,team_score,0.0
+NYL,Skylar Diggins-Smith,opp_score,0.0
+NYL,Sophie Cunningham,team_score,0.0
+NYL,Marina Mabrey,opp_score,0.0
+NYL,Monique Billings,team_score,0.0
+LVA,Shatori Walker-Kimbrough,team_score,0.0
+LVA,Shatori Walker-Kimbrough,opp_score,0.0
+NYL,Satou Sabally,team_score,0.0
+LVA,Skylar Diggins-Smith,opp_score,0.0
+LVA,Sophie Cunningham,team_score,0.0
+LVA,Sophie Cunningham,opp_score,0.0
+LVA,Stefanie Dolson,team_score,0.0
+LVA,Stefanie Dolson,opp_score,0.0
+LVA,Teaira McCowan,team_score,0.0
+LVA,Teaira McCowan,opp_score,0.0
+LVA,Temi Fagbenle,team_score,0.0
+LVA,Temi Fagbenle,opp_score,0.0
+NYL,Odyssey Sims,team_score,0.0
+NYL,NaLyssa Smith,opp_score,0.0
+NYL,Napheesa Collier,team_score,0.0
+NYL,Napheesa Collier,opp_score,0.0
+NYL,Natasha Howard,team_score,0.0
+NYL,Natasha Howard,opp_score,0.0
+NYL,Naz Hillmon,team_score,0.0
+NYL,Naz Hillmon,opp_score,0.0
+NYL,Nneka Ogwumike,team_score,0.0
+NYL,Nneka Ogwumike,opp_score,0.0
+LVA,Tina Charles,team_score,0.0
+NYL,Jordan Horston,opp_score,0.0
+NYL,Kahleah Copper,team_score,0.0
+NYL,Rebecca Allen,opp_score,0.0
+NYL,Rhyne Howard,team_score,0.0
+NYL,Rhyne Howard,opp_score,0.0
+NYL,Rickea Jackson,team_score,0.0
+NYL,Rickea Jackson,opp_score,0.0
+MIN,Chelsea Gray,opp_score,0.0
+MIN,Kiah Stokes,opp_score,0.0
+LVA,NaLyssa Smith,team_score,0.0
+LVA,Kiah Stokes,opp_score,0.0
+LVA,Leonie Fiebich,team_score,0.0
+LVA,Leonie Fiebich,opp_score,0.0
+LVA,Marina Mabrey,team_score,0.0
+LVA,Marina Mabrey,opp_score,0.0
+LVA,Monique Billings,team_score,0.0
+LVA,Monique Billings,opp_score,0.0
+LVA,Myisha Hines-Allen,team_score,0.0
+LVA,Myisha Hines-Allen,opp_score,0.0
+LVA,Kiah Stokes,team_score,0.0
+LVA,NaLyssa Smith,opp_score,0.0
+LVA,Napheesa Collier,team_score,0.0
+LVA,Napheesa Collier,opp_score,0.0
+LVA,Natasha Howard,team_score,0.0
+LVA,Natasha Howard,opp_score,0.0
+NYL,Sophie Cunningham,opp_score,0.0
+NYL,Stefanie Dolson,team_score,0.0
+NYL,Stefanie Dolson,opp_score,0.0
+NYL,Teaira McCowan,team_score,0.0
+LVA,Rebecca Allen,team_score,0.0
+LVA,Tina Charles,opp_score,0.0
+NYL,Odyssey Sims,opp_score,0.0
+NYL,Rebecca Allen,team_score,0.0
+LVA,Naz Hillmon,team_score,0.0
+LVA,Naz Hillmon,opp_score,0.0
+LVA,Nneka Ogwumike,team_score,0.0
+LVA,Nneka Ogwumike,opp_score,0.0
+LVA,Odyssey Sims,team_score,0.0
+LVA,Odyssey Sims,opp_score,0.0
+NYL,NaLyssa Smith,team_score,0.0
+LVA,Rebecca Allen,opp_score,0.0
+LVA,Rhyne Howard,team_score,0.0
+LVA,Rhyne Howard,opp_score,0.0
+LVA,Rickea Jackson,team_score,0.0
+LVA,Rickea Jackson,opp_score,0.0
+LVA,Sabrina Ionescu,team_score,0.0
+LVA,Sabrina Ionescu,opp_score,0.0
+LVA,Satou Sabally,team_score,0.0
+LVA,Satou Sabally,opp_score,0.0
+MIN,Ariel Atkins,team_score,0.0
+NYL,Elizabeth Williams,team_score,0.0
+NYL,Elizabeth Williams,opp_score,0.0
+NYL,Ezi Magbegor,team_score,0.0
+NYL,Ezi Magbegor,opp_score,0.0
+NYL,Jackie Young,team_score,0.0
+NYL,Jackie Young,opp_score,0.0
+NYL,Jordan Horston,team_score,0.0
+MIN,Cameron Brink,opp_score,0.0
+MIN,Chelsea Gray,team_score,0.0
+NYL,Diana Taurasi,opp_score,0.0
+MIN,Ariel Atkins,opp_score,0.0
+MIN,Arike Ogunbowale,team_score,0.0
+MIN,Arike Ogunbowale,opp_score,0.0
+MIN,Azura Stevens,team_score,0.0
+MIN,Azura Stevens,opp_score,0.0
+MIN,Breanna Stewart,team_score,0.0
+MIN,Breanna Stewart,opp_score,0.0
+MIN,Brionna Jones,team_score,0.0
+MIN,Brionna Jones,opp_score,0.0
+MIN,Elizabeth Williams,team_score,0.0
+MIN,Chennedy Carter,opp_score,0.0
+MIN,Cheyenne Parker-Tyus,team_score,0.0
+MIN,Cheyenne Parker-Tyus,opp_score,0.0
+MIN,DeWanna Bonner,team_score,0.0
+MIN,DeWanna Bonner,opp_score,0.0
+MIN,Dearica Hamby,team_score,0.0
+MIN,Dearica Hamby,opp_score,0.0
+MIN,Diana Taurasi,team_score,0.0
+MIN,Diana Taurasi,opp_score,0.0
+MIN,Brittney Griner,team_score,0.0
+MIN,Elizabeth Williams,opp_score,0.0
+MIN,Ezi Magbegor,team_score,0.0
+MIN,Ezi Magbegor,opp_score,0.0
+MIN,Jackie Young,team_score,0.0
+NYL,DeWanna Bonner,team_score,0.0
+NYL,DeWanna Bonner,opp_score,0.0
+NYL,Dearica Hamby,team_score,0.0
+NYL,Dearica Hamby,opp_score,0.0
+NYL,Diana Taurasi,team_score,0.0
+NYL,Kiah Stokes,team_score,0.0
+NYL,Kahleah Copper,opp_score,0.0
+NYL,Kamilla Cardoso,team_score,0.0
+NYL,Kamilla Cardoso,opp_score,0.0
+NYL,Kayla McBride,team_score,0.0
+NYL,Kayla McBride,opp_score,0.0
+NYL,Kelsey Mitchell,team_score,0.0
+NYL,Kelsey Mitchell,opp_score,0.0
+NYL,Kelsey Plum,team_score,0.0
+NYL,Kelsey Plum,opp_score,0.0
+MIN,Angel Reese,opp_score,0.0
+NYL,Kiah Stokes,opp_score,0.0
+NYL,Leonie Fiebich,team_score,0.0
+NYL,Leonie Fiebich,opp_score,0.0
+NYL,Marina Mabrey,team_score,0.0
+MIN,A'ja Wilson,team_score,0.0
+MIN,A'ja Wilson,opp_score,0.0
+NYL,Monique Billings,opp_score,0.0
+NYL,Myisha Hines-Allen,team_score,0.0
+NYL,Myisha Hines-Allen,opp_score,0.0
+MIN,Chennedy Carter,team_score,0.0
+MIN,Brittney Griner,opp_score,0.0
+MIN,Caitlin Clark,team_score,0.0
+MIN,Caitlin Clark,opp_score,0.0
+MIN,Cameron Brink,team_score,0.0
+NYL,Cheyenne Parker-Tyus,opp_score,0.0
+MIN,Aaliyah Edwards,team_score,0.0
+MIN,Aaliyah Edwards,opp_score,0.0
+MIN,Aari McDonald,team_score,0.0
+MIN,Aari McDonald,opp_score,0.0
+NYL,Teaira McCowan,opp_score,0.0
+MIN,Aliyah Boston,team_score,0.0
+MIN,Aliyah Boston,opp_score,0.0
+MIN,Allisha Gray,team_score,0.0
+MIN,Allisha Gray,opp_score,0.0
+MIN,Alysha Clark,team_score,0.0
+MIN,Alysha Clark,opp_score,0.0
+MIN,Alyssa Thomas,team_score,0.0
+MIN,Alyssa Thomas,opp_score,0.0
+MIN,Angel Reese,team_score,0.0
+LAS,Teaira McCowan,team_score,0.0
+PHO,Angel Reese,team_score,0.0
+PHO,Angel Reese,opp_score,0.0
+PHO,Ariel Atkins,team_score,0.0
+PHO,Ariel Atkins,opp_score,0.0
+PHO,Arike Ogunbowale,team_score,0.0
+PHO,Arike Ogunbowale,opp_score,0.0
+LAS,Sophie Cunningham,team_score,0.0
+LAS,Sophie Cunningham,opp_score,0.0
+LAS,Stefanie Dolson,team_score,0.0
+LAS,Stefanie Dolson,opp_score,0.0
+PHO,Alyssa Thomas,opp_score,0.0
+LAS,Teaira McCowan,opp_score,0.0
+LAS,Temi Fagbenle,team_score,0.0
+LAS,Temi Fagbenle,opp_score,0.0
+LAS,Tina Charles,team_score,0.0
+LAS,Tina Charles,opp_score,0.0
+PHO,Caitlin Clark,team_score,0.0
+PHO,Caitlin Clark,opp_score,0.0
+PHO,Cameron Brink,team_score,0.0
+PHO,Cameron Brink,opp_score,0.0
+PHO,Alanna Smith,opp_score,0.0
+PHO,Brionna Jones,team_score,0.0
+PHO,Brionna Jones,opp_score,0.0
+PHO,A'ja Wilson,team_score,0.0
+PHO,A'ja Wilson,opp_score,0.0
+PHO,Aaliyah Edwards,team_score,0.0
+PHO,Aaliyah Edwards,opp_score,0.0
+PHO,Aari McDonald,team_score,0.0
+PHO,Aari McDonald,opp_score,0.0
+PHO,Alanna Smith,team_score,0.0
+PHO,Chelsea Gray,team_score,0.0
+PHO,Chennedy Carter,team_score,0.0
+PHO,Chennedy Carter,opp_score,0.0
+PHO,Cheyenne Parker-Tyus,team_score,0.0
+PHO,Cheyenne Parker-Tyus,opp_score,0.0
+PHO,DeWanna Bonner,team_score,0.0
+PHO,DeWanna Bonner,opp_score,0.0
+PHO,Dearica Hamby,team_score,0.0
+PHO,Dearica Hamby,opp_score,0.0
+MIN,Kelsey Mitchell,opp_score,0.0
+LAS,Satou Sabally,opp_score,0.0
+LAS,Rebecca Allen,team_score,0.0
+LAS,Rebecca Allen,opp_score,0.0
+LAS,Rhyne Howard,team_score,0.0
+LAS,Rhyne Howard,opp_score,0.0
+LAS,Rickea Jackson,team_score,0.0
+LAS,Rickea Jackson,opp_score,0.0
+LAS,Sabrina Ionescu,team_score,0.0
+LAS,Sabrina Ionescu,opp_score,0.0
+LAS,Satou Sabally,team_score,0.0
+MIN,Kamilla Cardoso,opp_score,0.0
+LAS,Shatori Walker-Kimbrough,team_score,0.0
+LAS,Shatori Walker-Kimbrough,opp_score,0.0
+LAS,Skylar Diggins-Smith,team_score,0.0
+LAS,Leonie Fiebich,team_score,0.0
+LAS,Leonie Fiebich,opp_score,0.0
+LAS,Marina Mabrey,team_score,0.0
+LAS,Marina Mabrey,opp_score,0.0
+LAS,Monique Billings,team_score,0.0
+LAS,Monique Billings,opp_score,0.0
+PHO,Jordan Horston,team_score,0.0
+PHO,Chelsea Gray,opp_score,0.0
+PHO,Elizabeth Williams,team_score,0.0
+PHO,Elizabeth Williams,opp_score,0.0
+PHO,Ezi Magbegor,team_score,0.0
+PHO,Ezi Magbegor,opp_score,0.0
+PHO,Jackie Young,team_score,0.0
+PHO,Jackie Young,opp_score,0.0
+PHO,Jonquel Jones,team_score,0.0
+PHO,Jonquel Jones,opp_score,0.0
+PHO,Bridget Carleton,opp_score,0.0
+PHO,Jordan Horston,opp_score,0.0
+PHO,Kahleah Copper,team_score,0.0
+MIN,Kelsey Mitchell,team_score,0.0
+PHO,Kamilla Cardoso,team_score,0.0
+PHO,Kamilla Cardoso,opp_score,0.0
+PHO,Kayla McBride,team_score,0.0
+LAS,Skylar Diggins-Smith,opp_score,0.0
+LAS,Nneka Ogwumike,team_score,0.0
+LAS,Nneka Ogwumike,opp_score,0.0
+LVA,Brionna Jones,team_score,0.0
+LVA,Jonquel Jones,team_score,0.0
+LVA,Jonquel Jones,opp_score,0.0
+LVA,Jordan Horston,team_score,0.0
+LVA,Jordan Horston,opp_score,0.0
+LVA,Kahleah Copper,team_score,0.0
+LVA,Kahleah Copper,opp_score,0.0
+LVA,Kamilla Cardoso,team_score,0.0
+LVA,Bridget Carleton,team_score,0.0
+LVA,Bridget Carleton,opp_score,0.0
+MIN,Kelsey Plum,team_score,0.0
+LVA,Brionna Jones,opp_score,0.0
+LVA,Brittney Griner,team_score,0.0
+LVA,Brittney Griner,opp_score,0.0
+LVA,Caitlin Clark,team_score,0.0
+LVA,Caitlin Clark,opp_score,0.0
+LVA,Cameron Brink,team_score,0.0
+LVA,Cameron Brink,opp_score,0.0
+LVA,Chennedy Carter,team_score,0.0
+LVA,Chennedy Carter,opp_score,0.0
+MIN,Kiah Stokes,team_score,0.0
+NYL,Temi Fagbenle,team_score,0.0
+NYL,Temi Fagbenle,opp_score,0.0
+NYL,Tina Charles,team_score,0.0
+NYL,Tina Charles,opp_score,0.0
+LVA,Kamilla Cardoso,opp_score,0.0
+LVA,Kayla McBride,team_score,0.0
+LVA,Kayla McBride,opp_score,0.0
+LVA,Kelsey Mitchell,team_score,0.0
+LVA,Kelsey Mitchell,opp_score,0.0
+LVA,Cheyenne Parker-Tyus,team_score,0.0
+MIN,Kelsey Plum,opp_score,0.0
+LVA,Dearica Hamby,team_score,0.0
+LVA,Dearica Hamby,opp_score,0.0
+LVA,Diana Taurasi,team_score,0.0
+LVA,Diana Taurasi,opp_score,0.0
+LVA,Elizabeth Williams,team_score,0.0
+LVA,Elizabeth Williams,opp_score,0.0
+LVA,Ezi Magbegor,team_score,0.0
+LVA,Ezi Magbegor,opp_score,0.0
+LVA,Aari McDonald,opp_score,0.0
+PHO,Aliyah Boston,opp_score,0.0
+PHO,Allisha Gray,team_score,0.0
+PHO,Allisha Gray,opp_score,0.0
+PHO,Alysha Clark,team_score,0.0
+PHO,Alysha Clark,opp_score,0.0
+PHO,Alyssa Thomas,team_score,0.0
+LVA,Aaliyah Edwards,team_score,0.0
+LVA,Aaliyah Edwards,opp_score,0.0
+LVA,Aari McDonald,team_score,0.0
+PHO,Aliyah Boston,team_score,0.0
+LVA,Alanna Smith,team_score,0.0
+LVA,Alanna Smith,opp_score,0.0
+LVA,Aliyah Boston,team_score,0.0
+LVA,Aliyah Boston,opp_score,0.0
+PHO,Azura Stevens,team_score,0.0
+PHO,Azura Stevens,opp_score,0.0
+PHO,Breanna Stewart,team_score,0.0
+PHO,Breanna Stewart,opp_score,0.0
+PHO,Bridget Carleton,team_score,0.0
+LVA,Angel Reese,team_score,0.0
+LVA,Cheyenne Parker-Tyus,opp_score,0.0
+LVA,DeWanna Bonner,team_score,0.0
+LVA,DeWanna Bonner,opp_score,0.0
+LVA,Allisha Gray,team_score,0.0
+LVA,Allisha Gray,opp_score,0.0
+LVA,Alysha Clark,team_score,0.0
+LVA,Alysha Clark,opp_score,0.0
+LVA,Alyssa Thomas,team_score,0.0
+LVA,Alyssa Thomas,opp_score,0.0
+DAL,Rebecca Allen,team_score,0.0
+LVA,Angel Reese,opp_score,0.0
+LVA,Ariel Atkins,team_score,0.0
+LVA,Ariel Atkins,opp_score,0.0
+LVA,Arike Ogunbowale,team_score,0.0
+LVA,Arike Ogunbowale,opp_score,0.0
+LVA,Azura Stevens,team_score,0.0
+LVA,Azura Stevens,opp_score,0.0
+LVA,Breanna Stewart,team_score,0.0
+LVA,Breanna Stewart,opp_score,0.0
+CHI,A'ja Wilson,opp_score,0.0
+CHI,Breanna Stewart,team_score,0.0
+WAS,Satou Sabally,opp_score,0.0
+WAS,Shatori Walker-Kimbrough,team_score,0.0
+WAS,Shatori Walker-Kimbrough,opp_score,0.0
+WAS,Skylar Diggins-Smith,team_score,0.0
+WAS,Skylar Diggins-Smith,opp_score,0.0
+WAS,Sophie Cunningham,team_score,0.0
+WAS,Sophie Cunningham,opp_score,0.0
+MIN,Jonquel Jones,opp_score,0.0
+CHI,A'ja Wilson,team_score,0.0
+CHI,Azura Stevens,opp_score,0.0
+CHI,Aaliyah Edwards,team_score,0.0
+CHI,Aaliyah Edwards,opp_score,0.0
+CHI,Aari McDonald,team_score,0.0
+CHI,Aari McDonald,opp_score,0.0
+CHI,Alanna Smith,team_score,0.0
+CHI,Alanna Smith,opp_score,0.0
+MIN,Jonquel Jones,team_score,0.0
+MIN,Jackie Young,opp_score,0.0
+WAS,Teaira McCowan,team_score,0.0
+CHI,Alysha Clark,team_score,0.0
+CHI,Chelsea Gray,team_score,0.0
+CHI,Chelsea Gray,opp_score,0.0
+CHI,Cheyenne Parker-Tyus,team_score,0.0
+CHI,Cheyenne Parker-Tyus,opp_score,0.0
+CHI,DeWanna Bonner,team_score,0.0
+CHI,Aliyah Boston,team_score,0.0
+CHI,Aliyah Boston,opp_score,0.0
+CHI,Allisha Gray,team_score,0.0
+CHI,Allisha Gray,opp_score,0.0
+WAS,Teaira McCowan,opp_score,0.0
+CHI,Alysha Clark,opp_score,0.0
+CHI,Alyssa Thomas,team_score,0.0
+CHI,Alyssa Thomas,opp_score,0.0
+MIN,Jordan Horston,team_score,0.0
+CHI,Ariel Atkins,team_score,0.0
+CHI,Ariel Atkins,opp_score,0.0
+CHI,Arike Ogunbowale,team_score,0.0
+CHI,Arike Ogunbowale,opp_score,0.0
+CHI,Azura Stevens,team_score,0.0
+ATL,Temi Fagbenle,opp_score,0.0
+MIN,NaLyssa Smith,opp_score,0.0
+MIN,NaLyssa Smith,team_score,0.0
+MIN,Monique Billings,opp_score,0.0
+MIN,Monique Billings,team_score,0.0
+MIN,Marina Mabrey,opp_score,0.0
+MIN,Marina Mabrey,team_score,0.0
+MIN,Leonie Fiebich,opp_score,0.0
+ATL,Teaira McCowan,opp_score,0.0
+ATL,Temi Fagbenle,team_score,0.0
+MIN,Natasha Howard,team_score,0.0
+MIN,Leonie Fiebich,team_score,0.0
+MIN,Sophie Cunningham,opp_score,0.0
+MIN,Sophie Cunningham,team_score,0.0
+MIN,Skylar Diggins-Smith,opp_score,0.0
+MIN,Skylar Diggins-Smith,team_score,0.0
+MIN,Shatori Walker-Kimbrough,opp_score,0.0
+MIN,Shatori Walker-Kimbrough,team_score,0.0
+MIN,Satou Sabally,opp_score,0.0
+MIN,Satou Sabally,team_score,0.0
+WAS,Sabrina Ionescu,team_score,0.0
+WAS,Temi Fagbenle,team_score,0.0
+WAS,Temi Fagbenle,opp_score,0.0
+WAS,Tina Charles,team_score,0.0
+WAS,Tina Charles,opp_score,0.0
+WAS,Rebecca Allen,opp_score,0.0
+WAS,Rhyne Howard,team_score,0.0
+WAS,Rhyne Howard,opp_score,0.0
+WAS,Rickea Jackson,team_score,0.0
+WAS,Rickea Jackson,opp_score,0.0
+CHI,Cameron Brink,opp_score,0.0
+WAS,Sabrina Ionescu,opp_score,0.0
+WAS,Satou Sabally,team_score,0.0
+MIN,Odyssey Sims,opp_score,0.0
+MIN,Odyssey Sims,team_score,0.0
+MIN,Nneka Ogwumike,opp_score,0.0
+MIN,Nneka Ogwumike,team_score,0.0
+MIN,Naz Hillmon,opp_score,0.0
+MIN,Naz Hillmon,team_score,0.0
+MIN,Natasha Howard,opp_score,0.0
+WAS,Nneka Ogwumike,team_score,0.0
+CHI,Sabrina Ionescu,opp_score,0.0
+WAS,NaLyssa Smith,team_score,0.0
+WAS,NaLyssa Smith,opp_score,0.0
+WAS,Napheesa Collier,team_score,0.0
+WAS,Napheesa Collier,opp_score,0.0
+WAS,Natasha Howard,team_score,0.0
+WAS,Natasha Howard,opp_score,0.0
+WAS,Naz Hillmon,team_score,0.0
+WAS,Naz Hillmon,opp_score,0.0
+CHI,Sabrina Ionescu,team_score,0.0
+WAS,Nneka Ogwumike,opp_score,0.0
+WAS,Odyssey Sims,team_score,0.0
+WAS,Odyssey Sims,opp_score,0.0
+WAS,Rebecca Allen,team_score,0.0
+CHI,NaLyssa Smith,opp_score,0.0
+CHI,Napheesa Collier,team_score,0.0
+CHI,Napheesa Collier,opp_score,0.0
+CHI,Kayla McBride,team_score,0.0
+CHI,Kayla McBride,opp_score,0.0
+CHI,Nneka Ogwumike,team_score,0.0
+CHI,Teaira McCowan,opp_score,0.0
+CHI,Temi Fagbenle,team_score,0.0
+DAL,Rhyne Howard,opp_score,0.0
+CHI,Tina Charles,team_score,0.0
+CHI,Tina Charles,opp_score,0.0
+CHI,Natasha Howard,team_score,0.0
+CHI,Natasha Howard,opp_score,0.0
+CHI,Naz Hillmon,team_score,0.0
+CHI,Naz Hillmon,opp_score,0.0
+CHI,Kelsey Mitchell,team_score,0.0
+CHI,Nneka Ogwumike,opp_score,0.0
+CHI,Odyssey Sims,team_score,0.0
+CHI,Odyssey Sims,opp_score,0.0
+CHI,Rebecca Allen,team_score,0.0
+CHI,Rebecca Allen,opp_score,0.0
+CHI,Rhyne Howard,team_score,0.0
+CHI,Rhyne Howard,opp_score,0.0
+CHI,Rickea Jackson,team_score,0.0
+CHI,Rickea Jackson,opp_score,0.0
+CHI,Breanna Stewart,opp_score,0.0
+CHI,Ezi Magbegor,opp_score,0.0
+CHI,Jackie Young,team_score,0.0
+CHI,Jackie Young,opp_score,0.0
+CHI,Jonquel Jones,team_score,0.0
+CHI,Jonquel Jones,opp_score,0.0
+CHI,Jordan Horston,team_score,0.0
+CHI,Jordan Horston,opp_score,0.0
+CHI,Kahleah Copper,team_score,0.0
+CHI,Kahleah Copper,opp_score,0.0
+CHI,Ezi Magbegor,team_score,0.0
+CHI,Bridget Carleton,team_score,0.0
+CHI,Bridget Carleton,opp_score,0.0
+CHI,Brionna Jones,team_score,0.0
+CHI,Brionna Jones,opp_score,0.0
+CHI,Brittney Griner,team_score,0.0
+CHI,Brittney Griner,opp_score,0.0
+CHI,Caitlin Clark,team_score,0.0
+CHI,Caitlin Clark,opp_score,0.0
+CHI,Cameron Brink,team_score,0.0
+CHI,Myisha Hines-Allen,team_score,0.0
+CHI,Kelsey Mitchell,opp_score,0.0
+CHI,Kelsey Plum,team_score,0.0
+CHI,Kelsey Plum,opp_score,0.0
+CHI,Kiah Stokes,team_score,0.0
+CHI,Kiah Stokes,opp_score,0.0
+CHI,Leonie Fiebich,team_score,0.0
+CHI,Leonie Fiebich,opp_score,0.0
+CHI,Monique Billings,team_score,0.0
+CHI,Monique Billings,opp_score,0.0
+MIN,Sabrina Ionescu,opp_score,0.0
+CHI,Myisha Hines-Allen,opp_score,0.0
+CHI,NaLyssa Smith,team_score,0.0
+WAS,Monique Billings,opp_score,0.0
+CHI,DeWanna Bonner,opp_score,0.0
+CHI,Dearica Hamby,team_score,0.0
+CHI,Dearica Hamby,opp_score,0.0
+CHI,Diana Taurasi,team_score,0.0
+CHI,Diana Taurasi,opp_score,0.0
+MIN,Jordan Horston,opp_score,0.0
+ATL,Ariel Atkins,opp_score,0.0
+ATL,Allisha Gray,team_score,0.0
+ATL,Allisha Gray,opp_score,0.0
+ATL,Alysha Clark,team_score,0.0
+ATL,Alysha Clark,opp_score,0.0
+ATL,Alyssa Thomas,team_score,0.0
+ATL,Alyssa Thomas,opp_score,0.0
+ATL,Angel Reese,team_score,0.0
+ATL,Angel Reese,opp_score,0.0
+ATL,Ariel Atkins,team_score,0.0
+ATL,Aliyah Boston,opp_score,0.0
+ATL,Arike Ogunbowale,team_score,0.0
+ATL,Arike Ogunbowale,opp_score,0.0
+ATL,Azura Stevens,team_score,0.0
+MIN,Tina Charles,opp_score,0.0
+MIN,Tina Charles,team_score,0.0
+MIN,Temi Fagbenle,opp_score,0.0
+MIN,Temi Fagbenle,team_score,0.0
+MIN,Teaira McCowan,opp_score,0.0
+MIN,Teaira McCowan,team_score,0.0
+ATL,Brittney Griner,opp_score,0.0
+ATL,Jordan Horston,team_score,0.0
+ATL,Azura Stevens,opp_score,0.0
+ATL,Breanna Stewart,team_score,0.0
+ATL,Breanna Stewart,opp_score,0.0
+ATL,Bridget Carleton,team_score,0.0
+ATL,Bridget Carleton,opp_score,0.0
+ATL,Brionna Jones,team_score,0.0
+ATL,Brionna Jones,opp_score,0.0
+ATL,Brittney Griner,team_score,0.0
+MIN,Stefanie Dolson,opp_score,0.0
+ATL,Caitlin Clark,team_score,0.0
+ATL,Caitlin Clark,opp_score,0.0
+ATL,Cameron Brink,team_score,0.0
+ATL,Cameron Brink,opp_score,0.0
+ATL,Chelsea Gray,team_score,0.0
+ATL,Chelsea Gray,opp_score,0.0
+ATL,Chennedy Carter,team_score,0.0
+ATL,Alanna Smith,opp_score,0.0
+ATL,Aliyah Boston,team_score,0.0
+NYL,Aari McDonald,team_score,0.0
+NYL,Chelsea Gray,opp_score,0.0
+NYL,Chelsea Gray,team_score,0.0
+NYL,Cameron Brink,opp_score,0.0
+NYL,Ariel Atkins,team_score,0.0
+NYL,Cameron Brink,team_score,0.0
+NYL,Aliyah Boston,team_score,0.0
+NYL,Alanna Smith,opp_score,0.0
+NYL,Alanna Smith,team_score,0.0
+NYL,Aari McDonald,opp_score,0.0
+NYL,Chennedy Carter,team_score,0.0
+NYL,Aaliyah Edwards,opp_score,0.0
+NYL,Aaliyah Edwards,team_score,0.0
+NYL,A'ja Wilson,opp_score,0.0
+NYL,A'ja Wilson,team_score,0.0
+NYL,Azura Stevens,opp_score,0.0
+NYL,Azura Stevens,team_score,0.0
+NYL,Arike Ogunbowale,opp_score,0.0
+NYL,Arike Ogunbowale,team_score,0.0
+NYL,Ariel Atkins,opp_score,0.0
+NYL,Angel Reese,team_score,0.0
+MIN,Stefanie Dolson,team_score,0.0
+NYL,Angel Reese,opp_score,0.0
+ATL,A'ja Wilson,team_score,0.0
+ATL,A'ja Wilson,opp_score,0.0
+ATL,Aaliyah Edwards,team_score,0.0
+ATL,Aaliyah Edwards,opp_score,0.0
+ATL,Aari McDonald,team_score,0.0
+ATL,Aari McDonald,opp_score,0.0
+ATL,Alanna Smith,team_score,0.0
+ATL,Jonquel Jones,opp_score,0.0
+NYL,Alyssa Thomas,opp_score,0.0
+NYL,Alyssa Thomas,team_score,0.0
+NYL,Alysha Clark,opp_score,0.0
+NYL,Alysha Clark,team_score,0.0
+NYL,Allisha Gray,opp_score,0.0
+NYL,Allisha Gray,team_score,0.0
+NYL,Aliyah Boston,opp_score,0.0
+NYL,Cheyenne Parker-Tyus,team_score,0.0
+NYL,Chennedy Carter,opp_score,0.0
+ATL,Naz Hillmon,opp_score,0.0
+ATL,Myisha Hines-Allen,team_score,0.0
+ATL,Myisha Hines-Allen,opp_score,0.0
+ATL,NaLyssa Smith,team_score,0.0
+ATL,NaLyssa Smith,opp_score,0.0
+ATL,Napheesa Collier,team_score,0.0
+ATL,Napheesa Collier,opp_score,0.0
+ATL,Natasha Howard,team_score,0.0
+ATL,Natasha Howard,opp_score,0.0
+ATL,Naz Hillmon,team_score,0.0
+ATL,Monique Billings,opp_score,0.0
+ATL,Nneka Ogwumike,team_score,0.0
+ATL,Nneka Ogwumike,opp_score,0.0
+ATL,Odyssey Sims,team_score,0.0
+ATL,Odyssey Sims,opp_score,0.0
+ATL,Rebecca Allen,team_score,0.0
+ATL,Kahleah Copper,opp_score,0.0
+ATL,Kamilla Cardoso,team_score,0.0
+ATL,Kamilla Cardoso,opp_score,0.0
+ATL,Kayla McBride,team_score,0.0
+ATL,Satou Sabally,opp_score,0.0
+MIN,Sabrina Ionescu,team_score,0.0
+MIN,Rickea Jackson,opp_score,0.0
+MIN,Rickea Jackson,team_score,0.0
+ATL,Rebecca Allen,opp_score,0.0
+ATL,Rickea Jackson,team_score,0.0
+ATL,Rickea Jackson,opp_score,0.0
+ATL,Sabrina Ionescu,team_score,0.0
+ATL,Sabrina Ionescu,opp_score,0.0
+ATL,Satou Sabally,team_score,0.0
+ATL,Kayla McBride,opp_score,0.0
+ATL,Shatori Walker-Kimbrough,team_score,0.0
+ATL,Shatori Walker-Kimbrough,opp_score,0.0
+ATL,Skylar Diggins-Smith,team_score,0.0
+ATL,Skylar Diggins-Smith,opp_score,0.0
+ATL,Sophie Cunningham,team_score,0.0
+ATL,Sophie Cunningham,opp_score,0.0
+ATL,Stefanie Dolson,team_score,0.0
+ATL,Stefanie Dolson,opp_score,0.0
+ATL,Teaira McCowan,team_score,0.0
+ATL,Dearica Hamby,opp_score,0.0
+NYL,Brionna Jones,team_score,0.0
+NYL,Bridget Carleton,opp_score,0.0
+NYL,Bridget Carleton,team_score,0.0
+ATL,Jordan Horston,opp_score,0.0
+ATL,Kahleah Copper,team_score,0.0
+ATL,Chennedy Carter,opp_score,0.0
+ATL,DeWanna Bonner,team_score,0.0
+ATL,DeWanna Bonner,opp_score,0.0
+ATL,Dearica Hamby,team_score,0.0
+NYL,Brionna Jones,opp_score,0.0
+ATL,Diana Taurasi,team_score,0.0
+ATL,Diana Taurasi,opp_score,0.0
+ATL,Elizabeth Williams,team_score,0.0
+ATL,Elizabeth Williams,opp_score,0.0
+ATL,Ezi Magbegor,team_score,0.0
+ATL,Ezi Magbegor,opp_score,0.0
+ATL,Jackie Young,team_score,0.0
+ATL,Jackie Young,opp_score,0.0
+ATL,Jonquel Jones,team_score,0.0
+ATL,Marina Mabrey,opp_score,0.0
+ATL,Kelsey Mitchell,team_score,0.0
+ATL,Kelsey Mitchell,opp_score,0.0
+ATL,Kelsey Plum,team_score,0.0
+ATL,Kelsey Plum,opp_score,0.0
+ATL,Kiah Stokes,team_score,0.0
+ATL,Kiah Stokes,opp_score,0.0
+ATL,Leonie Fiebich,team_score,0.0
+ATL,Leonie Fiebich,opp_score,0.0
+ATL,Marina Mabrey,team_score,0.0
+CHI,Temi Fagbenle,opp_score,0.0
+ATL,Monique Billings,team_score,0.0
+MIN,Rhyne Howard,opp_score,0.0
+MIN,Rhyne Howard,team_score,0.0
+MIN,Rebecca Allen,opp_score,0.0
+MIN,Rebecca Allen,team_score,0.0
+NYL,Caitlin Clark,opp_score,0.0
+NYL,Caitlin Clark,team_score,0.0
+NYL,Brittney Griner,opp_score,0.0
+NYL,Brittney Griner,team_score,0.0
+SEA,Rebecca Allen,opp_score,0.0
+SEA,Teaira McCowan,team_score,0.0
+SEA,Teaira McCowan,opp_score,0.0
+SEA,Temi Fagbenle,team_score,0.0
+SEA,Temi Fagbenle,opp_score,0.0
+SEA,Tina Charles,team_score,0.0
+SEA,Tina Charles,opp_score,0.0
+SEA,Naz Hillmon,opp_score,0.0
+SEA,Odyssey Sims,team_score,0.0
+SEA,Odyssey Sims,opp_score,0.0
+SEA,Rebecca Allen,team_score,0.0
+SEA,Kiah Stokes,opp_score,0.0
+SEA,Rhyne Howard,team_score,0.0
+SEA,Rhyne Howard,opp_score,0.0
+SEA,Rickea Jackson,team_score,0.0
+SEA,Rickea Jackson,opp_score,0.0
+SEA,Sabrina Ionescu,team_score,0.0
+WAS,A'ja Wilson,team_score,0.0
+WAS,A'ja Wilson,opp_score,0.0
+WAS,Aari McDonald,team_score,0.0
+WAS,Aari McDonald,opp_score,0.0
+DAL,A'ja Wilson,opp_score,0.0
+SEA,Natasha Howard,team_score,0.0
+SEA,Natasha Howard,opp_score,0.0
+SEA,Naz Hillmon,team_score,0.0
+DAL,Allisha Gray,opp_score,0.0
+SEA,Sabrina Ionescu,opp_score,0.0
+SEA,Satou Sabally,team_score,0.0
+SEA,Satou Sabally,opp_score,0.0
+SEA,Shatori Walker-Kimbrough,team_score,0.0
+DAL,A'ja Wilson,team_score,0.0
+WAS,Alanna Smith,team_score,0.0
+DAL,Aaliyah Edwards,team_score,0.0
+DAL,Aaliyah Edwards,opp_score,0.0
+DAL,Aari McDonald,team_score,0.0
+DAL,Aari McDonald,opp_score,0.0
+DAL,Alanna Smith,team_score,0.0
+DAL,Alanna Smith,opp_score,0.0
+DAL,Aliyah Boston,team_score,0.0
+DAL,Aliyah Boston,opp_score,0.0
+DAL,Allisha Gray,team_score,0.0
+CON,Shatori Walker-Kimbrough,team_score,0.0
+WAS,Arike Ogunbowale,team_score,0.0
+WAS,Arike Ogunbowale,opp_score,0.0
+WAS,Azura Stevens,team_score,0.0
+WAS,Azura Stevens,opp_score,0.0
+WAS,Breanna Stewart,team_score,0.0
+WAS,Breanna Stewart,opp_score,0.0
+WAS,Bridget Carleton,team_score,0.0
+CON,Satou Sabally,team_score,0.0
+CON,Satou Sabally,opp_score,0.0
+WAS,Ariel Atkins,opp_score,0.0
+CON,Shatori Walker-Kimbrough,opp_score,0.0
+CON,Skylar Diggins-Smith,team_score,0.0
+CON,Skylar Diggins-Smith,opp_score,0.0
+CON,Sophie Cunningham,team_score,0.0
+CON,Sophie Cunningham,opp_score,0.0
+CHI,Teaira McCowan,team_score,0.0
+CON,Stefanie Dolson,opp_score,0.0
+CON,Teaira McCowan,team_score,0.0
+CON,Teaira McCowan,opp_score,0.0
+SEA,Stefanie Dolson,team_score,0.0
+WAS,Alanna Smith,opp_score,0.0
+WAS,Aliyah Boston,team_score,0.0
+WAS,Aliyah Boston,opp_score,0.0
+WAS,Allisha Gray,team_score,0.0
+SEA,Shatori Walker-Kimbrough,opp_score,0.0
+SEA,Skylar Diggins-Smith,team_score,0.0
+SEA,Skylar Diggins-Smith,opp_score,0.0
+SEA,Sophie Cunningham,team_score,0.0
+SEA,Sophie Cunningham,opp_score,0.0
+SEA,Napheesa Collier,opp_score,0.0
+SEA,Stefanie Dolson,opp_score,0.0
+WAS,Allisha Gray,opp_score,0.0
+WAS,Alysha Clark,team_score,0.0
+WAS,Alysha Clark,opp_score,0.0
+WAS,Alyssa Thomas,team_score,0.0
+WAS,Alyssa Thomas,opp_score,0.0
+WAS,Angel Reese,team_score,0.0
+WAS,Angel Reese,opp_score,0.0
+WAS,Ariel Atkins,team_score,0.0
+DAL,Jackie Young,opp_score,0.0
+DAL,Dearica Hamby,team_score,0.0
+DAL,Dearica Hamby,opp_score,0.0
+DAL,Diana Taurasi,team_score,0.0
+DAL,Diana Taurasi,opp_score,0.0
+DAL,Elizabeth Williams,team_score,0.0
+DAL,Elizabeth Williams,opp_score,0.0
+DAL,Ezi Magbegor,team_score,0.0
+DAL,Ezi Magbegor,opp_score,0.0
+DAL,Jackie Young,team_score,0.0
+DAL,Myisha Hines-Allen,opp_score,0.0
+DAL,Jonquel Jones,team_score,0.0
+DAL,Jonquel Jones,opp_score,0.0
+DAL,Jordan Horston,team_score,0.0
+DAL,Jordan Horston,opp_score,0.0
+DAL,Kahleah Copper,team_score,0.0
+DAL,Kahleah Copper,opp_score,0.0
+DAL,Brionna Jones,team_score,0.0
+DAL,Brionna Jones,opp_score,0.0
+DAL,Brittney Griner,team_score,0.0
+DAL,Kelsey Mitchell,opp_score,0.0
+DAL,Rickea Jackson,team_score,0.0
+DAL,Rickea Jackson,opp_score,0.0
+DAL,Sabrina Ionescu,team_score,0.0
+DAL,Sabrina Ionescu,opp_score,0.0
+DAL,Kamilla Cardoso,team_score,0.0
+DAL,Kamilla Cardoso,opp_score,0.0
+DAL,Kayla McBride,team_score,0.0
+DAL,Kayla McBride,opp_score,0.0
+DAL,Kelsey Mitchell,team_score,0.0
+DAL,Brittney Griner,opp_score,0.0
+DAL,Kelsey Plum,team_score,0.0
+DAL,Kelsey Plum,opp_score,0.0
+DAL,Kiah Stokes,team_score,0.0
+DAL,Kiah Stokes,opp_score,0.0
+DAL,Leonie Fiebich,team_score,0.0
+DAL,Leonie Fiebich,opp_score,0.0
+DAL,Marina Mabrey,team_score,0.0
+DAL,Marina Mabrey,opp_score,0.0
+DAL,Myisha Hines-Allen,team_score,0.0
+SEA,Leonie Fiebich,opp_score,0.0
+DAL,Arike Ogunbowale,team_score,0.0
+MIN,Kahleah Copper,team_score,0.0
+DAL,Azura Stevens,team_score,0.0
+DAL,Azura Stevens,opp_score,0.0
+DAL,Breanna Stewart,team_score,0.0
+DAL,Breanna Stewart,opp_score,0.0
+DAL,Bridget Carleton,team_score,0.0
+DAL,Bridget Carleton,opp_score,0.0
+SEA,Leonie Fiebich,team_score,0.0
+DAL,Ariel Atkins,opp_score,0.0
+SEA,Marina Mabrey,team_score,0.0
+SEA,Marina Mabrey,opp_score,0.0
+SEA,Monique Billings,team_score,0.0
+SEA,Monique Billings,opp_score,0.0
+SEA,Myisha Hines-Allen,team_score,0.0
+SEA,Myisha Hines-Allen,opp_score,0.0
+SEA,NaLyssa Smith,team_score,0.0
+SEA,NaLyssa Smith,opp_score,0.0
+SEA,Napheesa Collier,team_score,0.0
+DAL,Cheyenne Parker-Tyus,opp_score,0.0
+DAL,Caitlin Clark,team_score,0.0
+DAL,Caitlin Clark,opp_score,0.0
+DAL,Cameron Brink,team_score,0.0
+DAL,Cameron Brink,opp_score,0.0
+DAL,Chelsea Gray,team_score,0.0
+DAL,Chelsea Gray,opp_score,0.0
+DAL,Chennedy Carter,team_score,0.0
+DAL,Chennedy Carter,opp_score,0.0
+DAL,Cheyenne Parker-Tyus,team_score,0.0
+CON,Stefanie Dolson,team_score,0.0
+DAL,DeWanna Bonner,team_score,0.0
+DAL,DeWanna Bonner,opp_score,0.0
+DAL,Alysha Clark,team_score,0.0
+DAL,Alysha Clark,opp_score,0.0
+DAL,Alyssa Thomas,team_score,0.0
+DAL,Alyssa Thomas,opp_score,0.0
+DAL,Angel Reese,team_score,0.0
+DAL,Angel Reese,opp_score,0.0
+DAL,Ariel Atkins,team_score,0.0
+WAS,Cameron Brink,opp_score,0.0
+CON,Alyssa Thomas,team_score,0.0
+CON,Alyssa Thomas,opp_score,0.0
+WAS,Bridget Carleton,opp_score,0.0
+WAS,Brionna Jones,team_score,0.0
+WAS,Brionna Jones,opp_score,0.0
+WAS,Brittney Griner,team_score,0.0
+WAS,Brittney Griner,opp_score,0.0
+WAS,Caitlin Clark,team_score,0.0
+WAS,Caitlin Clark,opp_score,0.0
+WAS,Cameron Brink,team_score,0.0
+CON,Alysha Clark,opp_score,0.0
+WAS,Chelsea Gray,team_score,0.0
+WAS,Chelsea Gray,opp_score,0.0
+WAS,Chennedy Carter,team_score,0.0
+WAS,Chennedy Carter,opp_score,0.0
+WAS,Cheyenne Parker-Tyus,team_score,0.0
+WAS,Cheyenne Parker-Tyus,opp_score,0.0
+WAS,DeWanna Bonner,team_score,0.0
+WAS,DeWanna Bonner,opp_score,0.0
+WAS,Dearica Hamby,team_score,0.0
+CON,Aaliyah Edwards,opp_score,0.0
+CON,Bridget Carleton,team_score,0.0
+CON,Temi Fagbenle,team_score,0.0
+CON,Brionna Jones,team_score,0.0
+CON,Brionna Jones,opp_score,0.0
+CON,Brittney Griner,team_score,0.0
+CON,Brittney Griner,opp_score,0.0
+CON,A'ja Wilson,team_score,0.0
+CON,A'ja Wilson,opp_score,0.0
+CON,Aaliyah Edwards,team_score,0.0
+WAS,Dearica Hamby,opp_score,0.0
+CON,Aari McDonald,team_score,0.0
+CON,Aari McDonald,opp_score,0.0
+CON,Alanna Smith,team_score,0.0
+CON,Alanna Smith,opp_score,0.0
+CON,Aliyah Boston,team_score,0.0
+CON,Aliyah Boston,opp_score,0.0
+CON,Allisha Gray,team_score,0.0
+CON,Allisha Gray,opp_score,0.0
+CON,Alysha Clark,team_score,0.0
+CHI,Satou Sabally,team_score,0.0
+WAS,Kelsey Plum,team_score,0.0
+WAS,Kelsey Plum,opp_score,0.0
+WAS,Kiah Stokes,team_score,0.0
+WAS,Kiah Stokes,opp_score,0.0
+WAS,Leonie Fiebich,team_score,0.0
+WAS,Leonie Fiebich,opp_score,0.0
+WAS,Marina Mabrey,team_score,0.0
+WAS,Marina Mabrey,opp_score,0.0
+WAS,Monique Billings,team_score,0.0
+WAS,Kelsey Mitchell,opp_score,0.0
+CHI,Satou Sabally,opp_score,0.0
+CHI,Shatori Walker-Kimbrough,team_score,0.0
+CHI,Shatori Walker-Kimbrough,opp_score,0.0
+CHI,Skylar Diggins-Smith,team_score,0.0
+CHI,Skylar Diggins-Smith,opp_score,0.0
+CHI,Sophie Cunningham,team_score,0.0
+CHI,Sophie Cunningham,opp_score,0.0
+CHI,Stefanie Dolson,team_score,0.0
+CHI,Stefanie Dolson,opp_score,0.0
+WAS,Jonquel Jones,opp_score,0.0
+WAS,Diana Taurasi,team_score,0.0
+WAS,Diana Taurasi,opp_score,0.0
+WAS,Elizabeth Williams,team_score,0.0
+WAS,Elizabeth Williams,opp_score,0.0
+WAS,Ezi Magbegor,team_score,0.0
+WAS,Ezi Magbegor,opp_score,0.0
+WAS,Jackie Young,team_score,0.0
+WAS,Jackie Young,opp_score,0.0
+WAS,Jonquel Jones,team_score,0.0
+CON,Bridget Carleton,opp_score,0.0
+WAS,Jordan Horston,team_score,0.0
+WAS,Jordan Horston,opp_score,0.0
+WAS,Kahleah Copper,team_score,0.0
+WAS,Kahleah Copper,opp_score,0.0
+WAS,Kamilla Cardoso,team_score,0.0
+WAS,Kamilla Cardoso,opp_score,0.0
+WAS,Kayla McBride,team_score,0.0
+WAS,Kayla McBride,opp_score,0.0
+WAS,Kelsey Mitchell,team_score,0.0
+CON,Myisha Hines-Allen,opp_score,0.0
+CON,Kelsey Mitchell,opp_score,0.0
+CON,Kelsey Plum,team_score,0.0
+CON,Kelsey Plum,opp_score,0.0
+CON,Kiah Stokes,team_score,0.0
+CON,Kiah Stokes,opp_score,0.0
+CON,Leonie Fiebich,team_score,0.0
+CON,Leonie Fiebich,opp_score,0.0
+CON,Monique Billings,team_score,0.0
+CON,Monique Billings,opp_score,0.0
+CON,Myisha Hines-Allen,team_score,0.0
+CON,Kelsey Mitchell,team_score,0.0
+CON,NaLyssa Smith,team_score,0.0
+CON,NaLyssa Smith,opp_score,0.0
+CON,Napheesa Collier,team_score,0.0
+CON,Napheesa Collier,opp_score,0.0
+CON,Elizabeth Williams,team_score,0.0
+CON,Elizabeth Williams,opp_score,0.0
+CON,Breanna Stewart,opp_score,0.0
+CON,Ezi Magbegor,opp_score,0.0
+CON,Jackie Young,team_score,0.0
+CON,Odyssey Sims,team_score,0.0
+CON,Temi Fagbenle,opp_score,0.0
+CON,Tina Charles,team_score,0.0
+CON,Tina Charles,opp_score,0.0
+CON,Natasha Howard,team_score,0.0
+CON,Natasha Howard,opp_score,0.0
+CON,Naz Hillmon,team_score,0.0
+CON,Naz Hillmon,opp_score,0.0
+CON,Nneka Ogwumike,team_score,0.0
+CON,Nneka Ogwumike,opp_score,0.0
+CON,Ezi Magbegor,team_score,0.0
+CON,Odyssey Sims,opp_score,0.0
+CON,Rebecca Allen,team_score,0.0
+CON,Rebecca Allen,opp_score,0.0
+CON,Rhyne Howard,team_score,0.0
+CON,Rhyne Howard,opp_score,0.0
+CON,Rickea Jackson,team_score,0.0
+CON,Rickea Jackson,opp_score,0.0
+CON,Sabrina Ionescu,team_score,0.0
+CON,Sabrina Ionescu,opp_score,0.0
+CON,Diana Taurasi,opp_score,0.0
+CON,Chennedy Carter,team_score,0.0
+CON,Chennedy Carter,opp_score,0.0
+CON,Jackie Young,opp_score,0.0
+CON,Cheyenne Parker-Tyus,opp_score,0.0
+CON,DeWanna Bonner,team_score,0.0
+CON,DeWanna Bonner,opp_score,0.0
+CON,Dearica Hamby,team_score,0.0
+CON,Dearica Hamby,opp_score,0.0
+CON,Diana Taurasi,team_score,0.0
+CON,Cheyenne Parker-Tyus,team_score,0.0
+CON,Angel Reese,team_score,0.0
+CON,Angel Reese,opp_score,0.0
+CON,Ariel Atkins,team_score,0.0
+CON,Ariel Atkins,opp_score,0.0
+CON,Arike Ogunbowale,team_score,0.0
+CON,Arike Ogunbowale,opp_score,0.0
+CON,Azura Stevens,team_score,0.0
+CON,Azura Stevens,opp_score,0.0
+CON,Breanna Stewart,team_score,0.0
+CON,Caitlin Clark,team_score,0.0
+CON,Jonquel Jones,team_score,0.0
+CON,Jonquel Jones,opp_score,0.0
+CON,Jordan Horston,team_score,0.0
+CON,Jordan Horston,opp_score,0.0
+CON,Kahleah Copper,team_score,0.0
+CON,Kahleah Copper,opp_score,0.0
+CON,Kamilla Cardoso,team_score,0.0
+CON,Kamilla Cardoso,opp_score,0.0
+CON,Kayla McBride,team_score,0.0
+CON,Kayla McBride,opp_score,0.0
+CON,Chelsea Gray,opp_score,0.0
+CON,Caitlin Clark,opp_score,0.0
+CON,Cameron Brink,team_score,0.0
+CON,Cameron Brink,opp_score,0.0
+CON,Chelsea Gray,team_score,0.0
+MIN,Alanna Smith,team_score,1.1702151001630987e-06
+League,Elizabeth Williams,opp_score,1.7500390341823735e-06
+NYL,Jonquel Jones,team_score,2.0503182264747344e-06
+DAL,Teaira McCowan,opp_score,2.287980475899939e-06
+League,Elizabeth Williams,team_score,3.116265127087228e-06
+League,Aliyah Boston,opp_score,4.424944821585992e-06
+LVA,A'ja Wilson,team_score,5.195545361722006e-06
+League,Cameron Brink,team_score,6.2524848882660896e-06
+League,Leonie Fiebich,team_score,7.094718494276729e-06
+NYL,Sabrina Ionescu,team_score,8.343214901288684e-06
+League,Kiah Stokes,opp_score,8.866259521901944e-06
+MIN,Kayla McBride,opp_score,1.0079343309965835e-05
+League,Kamilla Cardoso,opp_score,1.0180558948168763e-05
+League,Ariel Atkins,opp_score,1.0833185361577066e-05
+League,Rickea Jackson,team_score,1.1268109466789867e-05
+SEA,Jordan Horston,team_score,1.1547482073372443e-05
+League,Angel Reese,team_score,1.1696942412202485e-05
+League,Cameron Brink,opp_score,1.2240501867076273e-05
+League,Chennedy Carter,opp_score,1.2376452718933596e-05
+League,Caitlin Clark,opp_score,1.3010646572790096e-05
+LVA,Kelsey Plum,opp_score,1.315814845486726e-05
+League,Shatori Walker-Kimbrough,team_score,1.3722169191250577e-05
+League,Sabrina Ionescu,opp_score,1.4309595830907387e-05
+League,Aari McDonald,team_score,1.5050820493967243e-05
+League,Breanna Stewart,opp_score,1.5726910961871317e-05
+League,Aliyah Boston,team_score,1.6832218623218447e-05
+League,Alanna Smith,opp_score,1.7244557014830395e-05
+League,Angel Reese,opp_score,1.7496384996910677e-05
+League,Marina Mabrey,opp_score,1.765614117475487e-05
+PHO,Kahleah Copper,opp_score,1.859848252470697e-05
+League,Kamilla Cardoso,team_score,1.914472540548301e-05
+League,Kayla McBride,team_score,1.9732945120210193e-05
+League,Monique Billings,opp_score,2.0519527184177268e-05
+League,Breanna Stewart,team_score,2.103550056665141e-05
+League,Jonquel Jones,opp_score,2.1389924901921603e-05
+League,Azura Stevens,team_score,2.143848806127504e-05
+League,Bridget Carleton,opp_score,2.1531071641275097e-05
+League,Stefanie Dolson,team_score,2.2414747650931667e-05
+League,Satou Sabally,team_score,2.3258169893995475e-05
+League,Kelsey Plum,team_score,2.3655533477185204e-05
+League,Odyssey Sims,team_score,2.4115876647333686e-05
+League,Ezi Magbegor,opp_score,2.4361594578784448e-05
+League,Alanna Smith,team_score,2.440583255169701e-05
+League,Kayla McBride,opp_score,2.4676407581276423e-05
+League,Leonie Fiebich,opp_score,2.4701203697438992e-05
+League,Chelsea Gray,opp_score,2.5493529564389283e-05
+League,Stefanie Dolson,opp_score,2.5667938032022473e-05
+League,Chelsea Gray,team_score,2.602153840433983e-05
+League,Marina Mabrey,team_score,2.6170354092940528e-05
+League,Kelsey Mitchell,team_score,2.8828872046135558e-05
+League,Kelsey Mitchell,opp_score,2.914065331987915e-05
+League,Chennedy Carter,team_score,2.961109750385033e-05
+League,Temi Fagbenle,opp_score,2.9761695331604847e-05
+League,Aaliyah Edwards,team_score,3.026072896292199e-05
+League,Monique Billings,team_score,3.0481770099077337e-05
+League,Satou Sabally,opp_score,3.080029552107114e-05
+League,Kiah Stokes,team_score,3.0806495502723456e-05
+ATL,Tina Charles,opp_score,3.302039075258114e-05
+League,Jackie Young,team_score,3.345215215371403e-05
+League,Cheyenne Parker-Tyus,team_score,3.376275601083783e-05
+League,Azura Stevens,opp_score,3.377320739278394e-05
+League,Naz Hillmon,opp_score,3.4371967108785836e-05
+League,NaLyssa Smith,team_score,3.506914175988796e-05
+League,NaLyssa Smith,opp_score,3.511303379749734e-05
+League,Sabrina Ionescu,team_score,3.6365062813289484e-05
+WAS,Stefanie Dolson,team_score,3.6397134626260854e-05
+League,Cheyenne Parker-Tyus,opp_score,3.6758510927716946e-05
+League,Jonquel Jones,team_score,3.736346392132541e-05
+League,A'ja Wilson,team_score,3.74139733529438e-05
+League,DeWanna Bonner,team_score,4.014176649310403e-05
+League,Alyssa Thomas,opp_score,4.080921169621681e-05
+League,Aaliyah Edwards,opp_score,4.174936963771614e-05
+League,Aari McDonald,opp_score,4.328241915634836e-05
+League,Ezi Magbegor,team_score,4.392537210969691e-05
+League,Kahleah Copper,opp_score,4.4127963437202406e-05
+League,Bridget Carleton,team_score,4.504284591440231e-05
+League,Myisha Hines-Allen,team_score,4.609719551673046e-05
+League,Arike Ogunbowale,opp_score,4.630391559176343e-05
+League,Tina Charles,opp_score,4.676420373685721e-05
+League,Brionna Jones,team_score,4.7550430836129173e-05
+League,Ariel Atkins,team_score,4.827889969470279e-05
+PHO,Monique Billings,team_score,4.9377482374176944e-05
+MIN,Alanna Smith,opp_score,5.0013851007926465e-05
+League,Nneka Ogwumike,team_score,5.111527293879423e-05
+League,Napheesa Collier,opp_score,5.201745327871693e-05
+League,Brittney Griner,team_score,5.230496652832253e-05
+League,Skylar Diggins-Smith,team_score,5.406539361963838e-05
+CHI,Angel Reese,opp_score,5.4777779938032785e-05
+ATL,Tina Charles,team_score,5.556305180046438e-05
+League,Teaira McCowan,team_score,5.766610093870117e-05
+League,Myisha Hines-Allen,opp_score,5.7885400244171037e-05
+League,Diana Taurasi,team_score,5.804290518060729e-05
+League,Caitlin Clark,team_score,5.812049821557377e-05
+League,Shatori Walker-Kimbrough,opp_score,5.8664767114181055e-05
+League,Jordan Horston,opp_score,6.083122604888357e-05
+League,Natasha Howard,opp_score,6.115018808230716e-05
+League,Kahleah Copper,team_score,6.216058670737551e-05
+League,Natasha Howard,team_score,6.245840827933214e-05
+League,Jackie Young,opp_score,6.292565005011406e-05
+League,Naz Hillmon,team_score,6.647379020882836e-05
+League,Allisha Gray,team_score,6.671127945143713e-05
+LAS,Odyssey Sims,team_score,6.73126321982839e-05
+League,Alysha Clark,team_score,6.77155262096235e-05
+League,Dearica Hamby,team_score,6.831542393222804e-05
+DAL,Arike Ogunbowale,opp_score,6.889107340044236e-05
+League,A'ja Wilson,opp_score,7.280465207711373e-05
+League,Sophie Cunningham,team_score,7.416152891038406e-05
+League,Temi Fagbenle,team_score,7.465541547751278e-05
+League,Teaira McCowan,opp_score,7.808185544209279e-05
+League,Jordan Horston,team_score,8.04092747779153e-05
+League,Napheesa Collier,team_score,8.196010294500618e-05
+NYL,Sabrina Ionescu,opp_score,8.337232549236458e-05
+PHO,Diana Taurasi,team_score,8.6568779429352e-05
+LVA,Kelsey Plum,team_score,8.769268115062784e-05
+League,Allisha Gray,opp_score,8.884962885350244e-05
+CHI,Elizabeth Williams,team_score,9.169184181339726e-05
+League,Skylar Diggins-Smith,opp_score,9.74548386341697e-05
+League,Dearica Hamby,opp_score,9.813809902293925e-05
+League,Alysha Clark,opp_score,0.00010309542768679099
+LVA,Jackie Young,team_score,0.00010533476615262563
+League,Tina Charles,team_score,0.00010552300197886061
+League,Brionna Jones,opp_score,0.00010611309026311147
+League,Odyssey Sims,opp_score,0.00010751267804353421
+League,Rhyne Howard,team_score,0.00011894007933018363
+WAS,Stefanie Dolson,opp_score,0.00012080138529469976
+LVA,A'ja Wilson,opp_score,0.0001260854638413543
+League,Rhyne Howard,opp_score,0.00012925918748609328
+League,DeWanna Bonner,opp_score,0.00014827482596357984
+League,Rickea Jackson,opp_score,0.0001533190969050699
+League,Sophie Cunningham,opp_score,0.0001557224117199534
+LVA,Jackie Young,opp_score,0.0001621543167078858
+DAL,Natasha Howard,team_score,0.00016549470513611928
+League,Arike Ogunbowale,team_score,0.00017433341840007054
+SEA,Ezi Magbegor,team_score,0.00018072510026650358
+NYL,Breanna Stewart,opp_score,0.00018133136578747414
+CON,Marina Mabrey,team_score,0.00019733470887180828
+NYL,Breanna Stewart,team_score,0.0001985279597040247
+DAL,Natasha Howard,opp_score,0.00020392324856448852
+League,Alyssa Thomas,team_score,0.00020498573193767874
+SEA,Ezi Magbegor,opp_score,0.0002072223413215795
+CON,Marina Mabrey,opp_score,0.00021934703495414255
+League,Diana Taurasi,opp_score,0.00022833225590391244
+League,Nneka Ogwumike,opp_score,0.00024499573714182037
+League,Kelsey Plum,opp_score,0.00025522890825147086
+LAS,Azura Stevens,team_score,0.00026178025627152134
+WAS,Aaliyah Edwards,opp_score,0.00026573741781754526
+League,Brittney Griner,opp_score,0.0002967925640688795
+SEA,Jordan Horston,opp_score,0.000318599641147785
+WAS,month_by_team_day_of_week,opp_score,0.0003260345503369918
+LAS,Aari McDonald,opp_score,0.0003382191482511747
+League,month_by_team_day_of_week,opp_score,0.0003425828144534846
+CHI,Elizabeth Williams,opp_score,0.00034435795351356796
+WAS,Aaliyah Edwards,team_score,0.0003538327603651646
+CHI,Chennedy Carter,opp_score,0.000372744639454596
+CHI,Kamilla Cardoso,opp_score,0.00038790610705048586
+PHO,Rebecca Allen,opp_score,0.00039484747950728884
+League,Rebecca Allen,team_score,0.0003975166545747007
+League,month_by_team_day_of_week,team_score,0.0004119300011893652
+LVA,Chelsea Gray,team_score,0.0004219910102900036
+LAS,Aari McDonald,team_score,0.0004262609531001328
+IND,month_by_team_day_of_week,opp_score,0.00044398192488308063
+SEA,Nneka Ogwumike,opp_score,0.0005123460285041688
+LAS,Cameron Brink,team_score,0.0005154610930077101
+CHI,Kamilla Cardoso,team_score,0.0005208776487452674
+DAL,Monique Billings,opp_score,0.0005353529055072832
+MIN,Bridget Carleton,team_score,0.0006049339062314121
+League,month,opp_score,0.0006321338527815649
+PHO,Brittney Griner,opp_score,0.000636875644606888
+NYL,team_ft_pct,opp_score,0.0006544804965097313
+MIN,Bridget Carleton,opp_score,0.0006556129664886687
+CHI,Marina Mabrey,team_score,0.0006630942209800554
+PHO,Monique Billings,opp_score,0.0006725071593621558
+LVA,team_day_median_allowed,team_score,0.0006801393106038825
+LVA,month_by_team_day_of_week,team_score,0.0006946932304321579
+WAS,Myisha Hines-Allen,opp_score,0.0007238316388232176
+SEA,Nneka Ogwumike,team_score,0.0007411075415551913
+WAS,advanced_blk_pct,team_score,0.0007439571926014406
+IND,team_day_median_allowed,opp_score,0.0007561547931668392
+League,Rebecca Allen,opp_score,0.0007673136709562308
+PHO,month_by_team_day_of_week,opp_score,0.0007679290764177206
+CHI,Chennedy Carter,team_score,0.0007828381157706218
+ATL,Rhyne Howard,team_score,0.0008191485946980113
+LVA,advanced_ftr,opp_score,0.0008328432716394234
+League,month,team_score,0.0008370309257454712
+DAL,Satou Sabally,opp_score,0.0008379844699756002
+MIN,Myisha Hines-Allen,opp_score,0.0008430492147682478
+CON,month,opp_score,0.0008609071835222629
+CHI,opponent_fg_pct,team_score,0.0009132793315614254
+NYL,month,team_score,0.0009541353115353014
+LVA,defensive_four_factors_ft_per_fga,opp_score,0.0009636237168246921
+PHO,month,opp_score,0.0009816009452105012
+LAS,opponent_3p_pct,team_score,0.0010190865959261656
+NYL,team_day_median_allowed,team_score,0.0010325355898398332
+League,opponent_fg_pct,team_score,0.0010360721508917395
+LVA,month,team_score,0.001065987328476828
+LAS,advanced_3par,team_score,0.0011247570982986935
+LVA,opponent_fg_pct,team_score,0.001127410881420203
+NYL,month_by_team_day_of_week,team_score,0.0011347944257255266
+IND,defensive_four_factors_ft_per_fga,team_score,0.0011467722955837338
+CON,month_by_team_day_of_week,team_score,0.0011801125416828224
+LAS,team_day_median_allowed,team_score,0.0011860984120599868
+CHI,Angel Reese,team_score,0.0012072000461063666
+NYL,advanced_ftr,team_score,0.001216992689267406
+League,advanced_ortg,opp_score,0.0012201907196830756
+League,advanced_ast_pct,opp_score,0.001240210181054467
+CHI,month,team_score,0.0012432492210825638
+CHI,defensive_four_factors_tov_pct,opp_score,0.0012584363191941908
+League,opponent_ft_pct,team_score,0.0012759293876047988
+League,advanced_3par,team_score,0.001299439294085478
+League,team_ft_pct,opp_score,0.0013165349993393472
+League,day,team_score,0.0013206100476599412
+CHI,offensive_four_factors_orb_pct,team_score,0.0013364772115957324
+WAS,Myisha Hines-Allen,team_score,0.0013417990291489804
+League,offensive_four_factors_orb_pct,team_score,0.0013421900233321993
+NYL,advanced_stl_pct,team_score,0.0013533217838515319
+LAS,team_vs_opp_median_score,team_score,0.00138430109725341
+LAS,opponent_ft_pct,team_score,0.001386087160418307
+PHO,Brittney Griner,team_score,0.0013890286731414977
+DAL,month_by_team_day_of_week,opp_score,0.0013926129344034352
+LAS,advanced_ast_pct,team_score,0.0014031978258482658
+LAS,month_by_team_day_of_week,opp_score,0.0014032665124913918
+SEA,month_by_team_day_of_week,opp_score,0.0014070422681440279
+CHI,Marina Mabrey,opp_score,0.0014222711748095038
+League,advanced_trb_pct,opp_score,0.001422821956086325
+DAL,Odyssey Sims,team_score,0.0014405371445361161
+League,defensive_four_factors_efg_pct,team_score,0.0014539724349898983
+League,defensive_four_factors_ft_per_fga,team_score,0.0014557674118787752
+MIN,Napheesa Collier,team_score,0.0014693014669269295
+LAS,month,team_score,0.0014708237162541784
+ATL,defensive_four_factors_drb_pct,opp_score,0.0014859143309280073
+League,offensive_four_factors_orb_pct,opp_score,0.0014978343747218954
+LAS,month,opp_score,0.0014987386117094824
+League,team_ft_pct,team_score,0.001508047534693327
+PHO,month,team_score,0.0015122518369679418
+League,advanced_blk_pct,team_score,0.001515777527803225
+ATL,team_day_median_allowed,team_score,0.0015165965185075327
+League,advanced_trb_pct,team_score,0.0015196316473436913
+NYL,advanced_pace_by_team_day_of_week,team_score,0.0015310308319891421
+ATL,month_by_team_day_of_week,team_score,0.0015376666164590399
+CHI,month_by_team_day_of_week,team_score,0.0015570742807883883
+League,defensive_four_factors_ft_per_fga,opp_score,0.001590573713188002
+DAL,Odyssey Sims,opp_score,0.0015933584688136992
+IND,team_day_median_allowed,team_score,0.0015968717223916555
+PHO,advanced_3par,team_score,0.0016256858657055563
+SEA,team_vs_opp_homeaway_median_score,opp_score,0.001626878935015009
+League,advanced_3par,opp_score,0.0016408117360847453
+DAL,advanced_ast_pct,team_score,0.0016512224968253902
+WAS,defensive_four_factors_efg_pct,team_score,0.0016597777243907404
+SEA,advanced_trb_pct,team_score,0.001684410804286589
+IND,Temi Fagbenle,opp_score,0.0016915938650012296
+ATL,Cheyenne Parker-Tyus,opp_score,0.0016942049430045604
+League,advanced_ts_pct,opp_score,0.0017066787054063736
+WAS,opponent_fg_pct,team_score,0.001710386708727598
+League,offensive_four_factors_tov_pct,team_score,0.0017172615485104808
+CON,team_day_median_allowed,opp_score,0.001719540375624516
+PHO,Diana Taurasi,opp_score,0.0017277017261905032
+League,opponent_3p_pct,opp_score,0.001728531013868426
+LAS,month_by_team_day_of_week,team_score,0.0017383888800637226
+NYL,offensive_four_factors_tov_pct,opp_score,0.0017447753348148146
+League,defensive_four_factors_drb_pct,opp_score,0.0017525954387018058
+ATL,team_vs_opp_median_score,team_score,0.0017568707744512028
+League,day,opp_score,0.0017665032300612942
+LVA,advanced_drtg,team_score,0.0017943356536103197
+LVA,advanced_blk_pct,opp_score,0.0018275891524159862
+League,advanced_ftr,team_score,0.0018505563760683643
+CON,month_by_team_day_of_week,opp_score,0.0018675729442293064
+LAS,Odyssey Sims,opp_score,0.0018733355439387819
+WAS,defensive_four_factors_drb_pct,opp_score,0.0018737418056165903
+MIN,day,team_score,0.0018934567477217248
+League,opponent_ft_pct,opp_score,0.0018952245551462224
+MIN,defensive_four_factors_tov_pct,team_score,0.0018964551002169038
+LAS,Cameron Brink,opp_score,0.0019034355514799114
+NYL,team_ft_pct,team_score,0.0019087947322204693
+DAL,opponent_fg_pct,team_score,0.0019290201425110958
+DAL,Monique Billings,team_score,0.0019381495283873223
+League,offensive_four_factors_tov_pct,opp_score,0.001970280210990467
+SEA,advanced_ast_pct,team_score,0.001974138985708311
+LAS,Azura Stevens,opp_score,0.0019995361655381167
+LAS,team_vs_opp_median_score,opp_score,0.0020116170548578685
+League,advanced_pace_by_team_day_of_week,team_score,0.0020228075237034774
+WAS,defensive_four_factors_tov_pct,team_score,0.0020390043661390484
+CHI,team_vs_opp_median_score,team_score,0.0020519422257213914
+League,opponent_3p_pct,team_score,0.0020571895418795274
+League,team_3p_pct,team_score,0.0020637968955344766
+SEA,opponent_fg_pct,team_score,0.002065311575375164
+PHO,team_vs_opp_median_score,opp_score,0.0020739010913630803
+ATL,Cheyenne Parker-Tyus,team_score,0.0020865979490821886
+ATL,team_day_median_allowed,opp_score,0.0021083160750377684
+NYL,advanced_3par,opp_score,0.0021119186797824473
+DAL,defensive_four_factors_ft_per_fga,opp_score,0.0021263501514307377
+WAS,team_ft_pct,opp_score,0.0021275240163702272
+WAS,opponent_3p_pct,team_score,0.0021280868023124257
+CHI,advanced_pace,opp_score,0.002131919342725769
+LAS,team_ft_pct,team_score,0.002134923570010178
+LVA,advanced_ast_pct,opp_score,0.0021397852993602093
+LVA,defensive_four_factors_drb_pct,opp_score,0.002168291057547246
+SEA,month,opp_score,0.0021689277606313836
+LVA,team_ft_pct,team_score,0.0021778699109929215
+CHI,team_day_median_allowed,team_score,0.002178409279147571
+PHO,advanced_pace_by_team_day_of_week,team_score,0.0021850315580224174
+SEA,advanced_blk_pct,opp_score,0.0021872407766901107
+MIN,Napheesa Collier,opp_score,0.002187552498307813
+League,defensive_four_factors_drb_pct,team_score,0.0022131826577189025
+DAL,team_day_median_allowed,team_score,0.002260227899773817
+ATL,Rhyne Howard,opp_score,0.002283632827463644
+CHI,opponent_ft_pct,opp_score,0.002291591436871372
+WAS,team_vs_opp_median_score,opp_score,0.002292439337629687
+LVA,team_3p_pct,team_score,0.002299138965620102
+CON,advanced_stl_pct,team_score,0.00232770779889171
+NYL,advanced_blk_pct,team_score,0.002343118778828122
+WAS,offensive_four_factors_tov_pct,team_score,0.0023445320976355002
+WAS,advanced_3par,opp_score,0.0023621753177718195
+MIN,month,opp_score,0.0023695421568465337
+MIN,Myisha Hines-Allen,team_score,0.0023724533341859893
+NYL,day,opp_score,0.0023872141383087576
+LVA,advanced_3par,opp_score,0.0024012956376197104
+League,advanced_blk_pct,opp_score,0.002413535882947116
+CON,advanced_pace_by_team_day_of_week,opp_score,0.0024188112409074193
+NYL,month_by_team_day_of_week,opp_score,0.0024459470927021567
+LVA,offensive_four_factors_orb_pct,team_score,0.002449827185886248
+LAS,team_day_median_allowed,opp_score,0.0024794525917434793
+SEA,advanced_3par,opp_score,0.002492578167312804
+LVA,defensive_four_factors_tov_pct,team_score,0.0024950305463796074
+LVA,defensive_four_factors_ft_per_fga,team_score,0.0024980546750047353
+NYL,opponent_ft_pct,team_score,0.002501902744611742
+NYL,advanced_ast_pct,team_score,0.002512552159061088
+ATL,advanced_pace_by_team_day_of_week,opp_score,0.0025172045324165703
+League,advanced_ftr,opp_score,0.002536480388221263
+NYL,Jonquel Jones,opp_score,0.00257677033972336
+WAS,team_vs_opp_homeaway_median_score,opp_score,0.002587703271684969
+LVA,advanced_pace_by_team_day_of_week,opp_score,0.002587988961960555
+CHI,opponent_3p_pct,team_score,0.0026295814068697265
+MIN,opponent_fg_pct,team_score,0.002642768935003834
+SEA,team_3p_pct,opp_score,0.002668457753770288
+MIN,defensive_four_factors_efg_pct,team_score,0.0026847114745629603
+DAL,month_by_team_day_of_week,team_score,0.002704195232125276
+DAL,offensive_four_factors_tov_pct,opp_score,0.0027260266648938226
+NYL,advanced_pace_by_team_day_of_week,opp_score,0.002730040531304109
+NYL,defensive_four_factors_tov_pct,team_score,0.002737495257393934
+League,team_day_median_allowed,opp_score,0.0027426105346746743
+LVA,advanced_stl_pct,team_score,0.002750284481053972
+PHO,month_by_team_day_of_week,team_score,0.00275906257296602
+WAS,advanced_ftr,team_score,0.0027617844534667856
+IND,month_by_team_day_of_week,team_score,0.00276193326534562
+CON,team_vs_opp_median_score,opp_score,0.0027658601718139604
+SEA,defensive_four_factors_efg_pct,team_score,0.0027905536984495732
+PHO,team_ft_pct,team_score,0.002804567886627807
+LVA,offensive_four_factors_orb_pct,opp_score,0.0028129678876281784
+MIN,team_ft_pct,opp_score,0.0028136822431463443
+League,defensive_four_factors_tov_pct,team_score,0.0028223718477108353
+ATL,team_vs_opp_median_score,opp_score,0.0028240387934181186
+LVA,opponent_fg_pct,opp_score,0.0028439271399778587
+MIN,month_by_team_day_of_week,team_score,0.0028652980688422714
+LAS,defensive_four_factors_ft_per_fga,team_score,0.0028844936012008228
+PHO,advanced_stl_pct,opp_score,0.00288845997459647
+League,advanced_ast_pct,team_score,0.0028965507936631013
+MIN,advanced_trb_pct,opp_score,0.002908410956540086
+SEA,offensive_four_factors_orb_pct,opp_score,0.0029183909997763575
+CHI,advanced_ortg,opp_score,0.002964693080893056
+ATL,month_by_team_day_of_week,opp_score,0.0029814146939408513
+PHO,advanced_stl_pct,team_score,0.0029828020249087045
+WAS,advanced_blk_pct,opp_score,0.0029866857211176124
+DAL,defensive_four_factors_tov_pct,team_score,0.003005679560258132
+CHI,team_day_median_allowed,opp_score,0.003017676703162651
+LAS,advanced_blk_pct,team_score,0.0030243380261295583
+CHI,advanced_pace_by_team_day_of_week,team_score,0.0030356862275800122
+League,team_day_median_allowed,team_score,0.003048475476557404
+League,team_3p_pct,opp_score,0.003060414345405658
+ATL,defensive_four_factors_tov_pct,team_score,0.0030876559388796953
+CHI,advanced_ftr,opp_score,0.0031555502085236485
+CON,month,team_score,0.0031632564823298893
+DAL,opponent_ft_pct,team_score,0.003183390170596266
+IND,advanced_pace_by_team_day_of_week,team_score,0.0031981280281240705
+LVA,advanced_ts_pct,opp_score,0.0032333045248989457
+CHI,month_by_team_day_of_week,opp_score,0.003279088820081469
+LAS,team_ft_pct,opp_score,0.003319215334572332
+WAS,advanced_drtg,team_score,0.003322979158335012
+LVA,advanced_pace,team_score,0.0033360912655788205
+WAS,offensive_four_factors_orb_pct,team_score,0.003384499025603326
+CHI,defensive_four_factors_efg_pct,team_score,0.0034037377965723693
+SEA,team_day_median_allowed,opp_score,0.003434653934091392
+IND,offensive_four_factors_orb_pct,team_score,0.003438138473997783
+NYL,offensive_four_factors_orb_pct,team_score,0.0034503090306732785
+League,defensive_four_factors_tov_pct,opp_score,0.003453429937483071
+NYL,team_3p_pct,opp_score,0.0034736976191503902
+PHO,advanced_ftr,opp_score,0.003481092000043502
+League,team_vs_opp_median_score,opp_score,0.003492248894372376
+LVA,offensive_four_factors_tov_pct,opp_score,0.003531054790315135
+MIN,month_by_team_day_of_week,opp_score,0.0035395545296983215
+ATL,team_3p_pct,opp_score,0.003549690810053632
+DAL,Satou Sabally,team_score,0.003572815447736283
+MIN,team_3p_pct,opp_score,0.003585817999740694
+NYL,team_day_median_allowed,opp_score,0.00358945028119162
+CON,advanced_drtg,team_score,0.0036313673036079065
+PHO,advanced_blk_pct,opp_score,0.0036385286353702298
+LAS,advanced_pace_by_team_day_of_week,opp_score,0.0036448982531861536
+ATL,advanced_pace_by_team_day_of_week,team_score,0.00364635239381136
+WAS,month,opp_score,0.003650977514314839
+PHO,opponent_3p_pct,opp_score,0.003668286924201534
+LVA,day,opp_score,0.003692414768875393
+NYL,defensive_four_factors_ft_per_fga,team_score,0.0036938943663429374
+DAL,advanced_pace,team_score,0.0036944087212291378
+League,advanced_drtg,team_score,0.003702265619834576
+CHI,team_vs_opp_homeaway_median_score,opp_score,0.0037032754490132188
+ATL,advanced_ortg,opp_score,0.003705210699047316
+CHI,month,opp_score,0.003727694141930389
+CON,opponent_fg_pct,team_score,0.0037290544496824986
+MIN,Kayla McBride,team_score,0.003746673573400608
+DAL,advanced_ftr,team_score,0.0037472428433595138
+PHO,team_vs_opp_homeaway_median_score,opp_score,0.003758366277584691
+WAS,team_day_median_allowed,opp_score,0.003767827069924921
+NYL,team_vs_opp_median_score,opp_score,0.003775905803514787
+SEA,month_by_team_day_of_week,team_score,0.0037764461721721855
+NYL,defensive_four_factors_drb_pct,team_score,0.0037801887854860233
+ATL,month,team_score,0.0037965978783461446
+LAS,advanced_pace_by_team_day_of_week,team_score,0.0038113419590597277
+League,advanced_pace_by_team_day_of_week,opp_score,0.0038159633393983544
+MIN,opponent_ft_pct,team_score,0.003838345311554264
+CON,opponent_ft_pct,team_score,0.003844098951232283
+LVA,opponent_3p_pct,opp_score,0.0038546694445899775
+IND,offensive_four_factors_orb_pct,opp_score,0.0038615986587916696
+ATL,defensive_four_factors_drb_pct,team_score,0.00386918774173427
+CON,team_vs_opp_homeaway_median_score,opp_score,0.003898953554633948
+CON,defensive_four_factors_efg_pct,team_score,0.003901893374878042
+CON,advanced_ftr,team_score,0.003902405408138986
+DAL,advanced_blk_pct,team_score,0.003943345968053445
+CON,team_day_median_allowed,team_score,0.0039505651678396125
+LVA,advanced_ast_pct,team_score,0.003966737313457882
+CON,advanced_3par,opp_score,0.00397287809687428
+LVA,team_vs_opp_median_score,opp_score,0.003975444368934289
+LVA,advanced_3par,team_score,0.003982718583340988
+LVA,defensive_four_factors_efg_pct,team_score,0.003988102226481433
+PHO,day,team_score,0.004005893189440751
+LVA,advanced_trb_pct,opp_score,0.004016509507225212
+WAS,day,team_score,0.004029166660045239
+LVA,team_day_median_allowed,opp_score,0.004042866615553899
+PHO,advanced_ast_pct,team_score,0.004053735656953671
+CHI,team_ft_pct,team_score,0.004054311023412087
+DAL,month,team_score,0.004056107812002008
+LAS,offensive_four_factors_orb_pct,team_score,0.00407509995227618
+IND,advanced_pace_by_team_day_of_week,opp_score,0.004106041835299565
+League,defensive_four_factors_efg_pct,opp_score,0.00411109208707886
+NYL,advanced_trb_pct,opp_score,0.0041906121635061164
+IND,opponent_ft_pct,opp_score,0.004207442758472879
+ATL,advanced_ts_pct,opp_score,0.004214122257529225
+CHI,offensive_four_factors_tov_pct,opp_score,0.004221727509833606
+IND,advanced_blk_pct,team_score,0.004246357769866691
+NYL,opponent_ft_pct,opp_score,0.004283509410987905
+PHO,defensive_four_factors_drb_pct,team_score,0.004300121850703173
+SEA,advanced_ts_pct,opp_score,0.004325529269885199
+DAL,day,team_score,0.004326886097038017
+CHI,defensive_four_factors_drb_pct,opp_score,0.004334302354022274
+DAL,defensive_four_factors_drb_pct,team_score,0.004341854450562631
+PHO,team_3p_pct,opp_score,0.004344723197869641
+DAL,advanced_pace_by_team_day_of_week,team_score,0.004347131019992218
+IND,defensive_four_factors_tov_pct,team_score,0.00434840827517636
+ATL,team_vs_opp_homeaway_median_score,opp_score,0.004389627191491785
+PHO,defensive_four_factors_drb_pct,opp_score,0.004443329422023222
+DAL,advanced_pace_by_team_day_of_week,opp_score,0.004457409690433831
+DAL,month,opp_score,0.004480816402564318
+CHI,day,team_score,0.004485962779956623
+LVA,advanced_ftr,team_score,0.004490631774518553
+ATL,opponent_ft_pct,opp_score,0.00454316687049258
+LVA,advanced_stl_pct,opp_score,0.004574480445175368
+NYL,offensive_four_factors_tov_pct,team_score,0.004581171433419707
+DAL,team_ft_pct,opp_score,0.004589934651303605
+LVA,day,team_score,0.0046008916451427025
+DAL,team_3p_pct,team_score,0.00463490108117189
+WAS,defensive_four_factors_drb_pct,team_score,0.004649664370706472
+WAS,month,team_score,0.004663845441977529
+MIN,advanced_ts_pct,opp_score,0.0046795195352481965
+WAS,advanced_pace_by_team_day_of_week,team_score,0.004690685914417087
+LVA,team_ft_pct,opp_score,0.004727443352032975
+DAL,advanced_stl_pct,opp_score,0.004764866981878917
+LVA,advanced_ortg,opp_score,0.004792919673628412
+IND,advanced_ftr,opp_score,0.0048229443855811035
+IND,advanced_ast_pct,opp_score,0.004870435701293007
+LVA,offensive_four_factors_tov_pct,team_score,0.004889980084230881
+IND,Temi Fagbenle,team_score,0.004940215071032013
+PHO,day,opp_score,0.004946955004447967
+CON,team_3p_pct,opp_score,0.004970355477811476
+LVA,defensive_four_factors_drb_pct,team_score,0.004999704215544548
+DAL,advanced_stl_pct,team_score,0.005026230848904031
+ATL,opponent_3p_pct,opp_score,0.005037608069114332
+IND,team_ft_pct,opp_score,0.005047997156905676
+CHI,advanced_stl_pct,opp_score,0.005077571387748178
+PHO,advanced_ts_pct,opp_score,0.005100169037382923
+ATL,advanced_pace,team_score,0.00513823947190224
+MIN,advanced_pace_by_team_day_of_week,team_score,0.005147121224530514
+MIN,offensive_four_factors_orb_pct,opp_score,0.005221579118064725
+WAS,month_by_team_day_of_week,team_score,0.005245244079545273
+MIN,opponent_3p_pct,team_score,0.005256130227754947
+IND,team_vs_opp_median_score,opp_score,0.005291258761428022
+ATL,team_3p_pct,team_score,0.005301334023015336
+SEA,defensive_four_factors_ft_per_fga,team_score,0.005331276052029152
+CHI,advanced_blk_pct,team_score,0.005362199309382078
+SEA,opponent_ft_pct,team_score,0.0053704797448486915
+IND,team_ft_pct,team_score,0.005370826051047632
+PHO,advanced_trb_pct,opp_score,0.005394906191600197
+NYL,day,team_score,0.005413973910393239
+SEA,advanced_drtg,team_score,0.005422094615093937
+CHI,offensive_four_factors_tov_pct,team_score,0.005422630695211787
+DAL,advanced_ast_pct,opp_score,0.00542276348312271
+CON,advanced_pace_by_team_day_of_week,team_score,0.005442632763213412
+NYL,advanced_ts_pct,opp_score,0.005476298458010325
+IND,advanced_drtg,team_score,0.005482547888597203
+DAL,team_3p_pct,opp_score,0.005516702149943094
+CON,defensive_four_factors_tov_pct,team_score,0.005528959953093853
+NYL,advanced_trb_pct,team_score,0.00553283296252366
+DAL,advanced_3par,team_score,0.005552680833301216
+CON,advanced_stl_pct,opp_score,0.005563962407390179
+LAS,offensive_four_factors_tov_pct,team_score,0.005566978654716068
+LAS,defensive_four_factors_tov_pct,team_score,0.005580860432445562
+DAL,defensive_four_factors_ft_per_fga,team_score,0.0056077754001902565
+PHO,team_day_median_allowed,opp_score,0.005613392888621942
+IND,advanced_ast_pct,team_score,0.005620636129414653
+PHO,offensive_four_factors_orb_pct,team_score,0.005671271538680611
+WAS,team_ft_pct,team_score,0.005681200091953943
+CON,advanced_3par,team_score,0.005691911544494602
+WAS,team_day_median_allowed,team_score,0.005702086130255231
+LVA,advanced_pace,opp_score,0.005715379052941807
+IND,month,opp_score,0.00572298287403216
+LVA,advanced_pace_by_team_day_of_week,team_score,0.0057381670993901035
+ATL,advanced_3par,team_score,0.005751687712394003
+CON,advanced_blk_pct,opp_score,0.005754150191144849
+WAS,defensive_four_factors_ft_per_fga,team_score,0.005779907026366684
+SEA,team_ft_pct,opp_score,0.0057803939827025565
+IND,advanced_stl_pct,team_score,0.005781382782711642
+CON,defensive_four_factors_ft_per_fga,opp_score,0.005792432710689809
+NYL,defensive_four_factors_ft_per_fga,opp_score,0.0058218264468927194
+WAS,advanced_stl_pct,team_score,0.005823257037972854
+CON,day,team_score,0.005824982627816855
+CHI,advanced_blk_pct,opp_score,0.005843768917628401
+ATL,defensive_four_factors_ft_per_fga,opp_score,0.005864922031466325
+MIN,opponent_ft_pct,opp_score,0.0058702724670291395
+DAL,day,opp_score,0.0058917096488527694
+CON,advanced_ortg,opp_score,0.00600802741799596
+CHI,opponent_ft_pct,team_score,0.006021788761598285
+ATL,advanced_3par,opp_score,0.006072261665734861
+LAS,opponent_3p_pct,opp_score,0.006126038552345939
+CHI,team_3p_pct,team_score,0.006178278248053877
+MIN,advanced_drtg,team_score,0.006191764567461559
+WAS,advanced_trb_pct,team_score,0.006210929662051879
+MIN,day,opp_score,0.006258709122303014
+IND,advanced_3par,opp_score,0.006276321092671299
+CHI,advanced_stl_pct,team_score,0.00628670807931784
+WAS,advanced_pace,team_score,0.0062933404743047506
+League,team_vs_opp_median_score,team_score,0.006309952185596542
+CHI,defensive_four_factors_ft_per_fga,team_score,0.00631826225137211
+NYL,advanced_ftr,opp_score,0.00632065387794156
+SEA,opponent_ft_pct,opp_score,0.00632216732091834
+IND,offensive_four_factors_tov_pct,team_score,0.006350789386889933
+ATL,advanced_ftr,opp_score,0.006355248060328851
+PHO,defensive_four_factors_ft_per_fga,team_score,0.006392249253712361
+NYL,advanced_ortg,opp_score,0.0063980367940838475
+IND,opponent_3p_pct,team_score,0.006415378711268221
+CON,defensive_four_factors_tov_pct,opp_score,0.006494698378397536
+LAS,advanced_trb_pct,team_score,0.0065232761646954315
+LVA,opponent_ft_pct,team_score,0.006581504482949313
+CHI,advanced_trb_pct,opp_score,0.006620532695636469
+SEA,opponent_3p_pct,team_score,0.006659316282866982
+IND,defensive_four_factors_tov_pct,opp_score,0.006662234666433397
+LAS,advanced_ast_pct,opp_score,0.006714654334848458
+IND,advanced_ftr,team_score,0.006748567476312615
+NYL,team_vs_opp_median_score,team_score,0.006750272520215401
+NYL,offensive_four_factors_orb_pct,opp_score,0.006763334262457393
+LVA,team_vs_opp_homeaway_median_score,opp_score,0.006776130160893883
+LVA,advanced_trb_pct,team_score,0.006832297869579643
+WAS,team_3p_pct,opp_score,0.006848474173808253
+DAL,opponent_fg_pct,opp_score,0.0068598657854858506
+CHI,team_ft_pct,opp_score,0.006874285344259968
+CON,offensive_four_factors_orb_pct,team_score,0.006875271949009211
+DAL,advanced_pace,opp_score,0.006901406177944056
+League,team_vs_opp_homeaway_median_score,opp_score,0.006917883231007615
+NYL,opponent_3p_pct,opp_score,0.006927265422160584
+IND,defensive_four_factors_drb_pct,opp_score,0.0069692541485274736
+WAS,advanced_trb_pct,opp_score,0.007006048483045656
+NYL,advanced_blk_pct,opp_score,0.007037296893934655
+CHI,advanced_ts_pct,opp_score,0.007053825423809416
+PHO,defensive_four_factors_tov_pct,opp_score,0.0070573526870173564
+DAL,advanced_ts_pct,opp_score,0.0070584276243105485
+LVA,defensive_four_factors_tov_pct,opp_score,0.007100371865791734
+CON,advanced_ast_pct,team_score,0.007107359370884332
+CON,advanced_blk_pct,team_score,0.007125446526859557
+DAL,advanced_drtg,team_score,0.0071325256660398515
+IND,opponent_fg_pct,team_score,0.007177960466849002
+ATL,advanced_ftr,team_score,0.007203780662107935
+IND,advanced_trb_pct,team_score,0.007278940955865386
+MIN,defensive_four_factors_drb_pct,opp_score,0.007293774549100856
+IND,advanced_3par,team_score,0.00735508150263734
+WAS,advanced_ast_pct,team_score,0.00737876543603877
+CON,defensive_four_factors_drb_pct,opp_score,0.007385085345734098
+ATL,team_ft_pct,team_score,0.007402768543655504
+NYL,advanced_3par,team_score,0.007406613832918337
+DAL,defensive_four_factors_drb_pct,opp_score,0.007407888054682879
+MIN,advanced_ast_pct,team_score,0.0074196445642667865
+CON,opponent_3p_pct,team_score,0.0074598489754759915
+NYL,defensive_four_factors_efg_pct,team_score,0.007495149630073413
+MIN,month,team_score,0.007519440225884467
+IND,day,team_score,0.007537045037498015
+NYL,team_vs_opp_homeaway_median_score,opp_score,0.007543459415248175
+CON,opponent_ft_pct,opp_score,0.007567949481990319
+ATL,defensive_four_factors_efg_pct,team_score,0.007579132486103175
+WAS,advanced_pace_by_team_day_of_week,opp_score,0.00763319386273333
+LAS,advanced_stl_pct,opp_score,0.00766208620450208
+ATL,advanced_stl_pct,team_score,0.007668405132013228
+SEA,advanced_ortg,opp_score,0.007692135633131207
+MIN,advanced_stl_pct,opp_score,0.007692675864045279
+SEA,advanced_blk_pct,team_score,0.007702647683707262
+LAS,opponent_fg_pct,team_score,0.007760661278642733
+IND,advanced_pace,team_score,0.0077745712712912075
+CON,team_ft_pct,team_score,0.007778111163237881
+ATL,day,opp_score,0.007796334698239047
+DAL,opponent_3p_pct,team_score,0.007812121392725043
+LVA,opponent_3p_pct,team_score,0.007821706131172933
+SEA,defensive_four_factors_tov_pct,team_score,0.007837836747185432
+MIN,team_day_median_allowed,team_score,0.007851233914562961
+CON,team_3p_pct,team_score,0.00788190348450388
+MIN,advanced_pace,team_score,0.007896278937186304
+DAL,defensive_four_factors_efg_pct,team_score,0.007964366300452616
+IND,advanced_trb_pct,opp_score,0.007967411769811498
+SEA,advanced_trb_pct,opp_score,0.00800879610779116
+IND,defensive_four_factors_efg_pct,team_score,0.008080480318120573
+PHO,advanced_ftr,team_score,0.008084350357298533
+NYL,opponent_fg_pct,team_score,0.00811480136445184
+League,opponent_fg_pct,opp_score,0.008171708609705395
+LAS,offensive_four_factors_orb_pct,opp_score,0.008173780455790258
+LAS,advanced_drtg,team_score,0.00833917241972558
+PHO,offensive_four_factors_tov_pct,opp_score,0.008438267511248255
+LVA,month,opp_score,0.008511996566228704
+League,advanced_stl_pct,team_score,0.00853103424895992
+LVA,Chelsea Gray,opp_score,0.008565427896259624
+PHO,team_day_median_allowed,team_score,0.008591155858859134
+League,advanced_stl_pct,opp_score,0.008610723762293758
+SEA,defensive_four_factors_drb_pct,opp_score,0.008628729625653702
+DAL,defensive_four_factors_tov_pct,opp_score,0.00867311309934873
+WAS,advanced_ast_pct,opp_score,0.008690774134611721
+CHI,advanced_ast_pct,team_score,0.0087260313000551
+SEA,advanced_pace_by_team_day_of_week,team_score,0.008814879524649885
+DAL,team_vs_opp_homeaway_median_score,opp_score,0.008815664498889497
+LVA,advanced_blk_pct,team_score,0.00887383513793519
+WAS,advanced_ortg,opp_score,0.008896538097054837
+CHI,advanced_pace_by_team_day_of_week,opp_score,0.008917183014659906
+NYL,team_3p_pct,team_score,0.008957947370029858
+MIN,advanced_blk_pct,opp_score,0.009008751555543284
+CHI,offensive_four_factors_orb_pct,opp_score,0.009091071085261386
+DAL,team_ft_pct,team_score,0.00910749038820465
+LAS,opponent_ft_pct,opp_score,0.009111436992195694
+SEA,day,team_score,0.009118436309458898
+CON,advanced_ts_pct,opp_score,0.00912811959686954
+IND,day,opp_score,0.009141554992140987
+CON,team_ft_pct,opp_score,0.009145368020756533
+MIN,advanced_blk_pct,team_score,0.009162924075288707
+MIN,defensive_four_factors_drb_pct,team_score,0.00917973387738253
+PHO,offensive_four_factors_tov_pct,team_score,0.009180651280047497
+MIN,advanced_3par,team_score,0.00920320873740866
+LAS,advanced_pace,team_score,0.009242838842704137
+WAS,opponent_ft_pct,team_score,0.009252612959295484
+ATL,opponent_fg_pct,team_score,0.009254200464717147
+LAS,day,opp_score,0.009255825421887891
+SEA,advanced_stl_pct,team_score,0.009310951643682827
+IND,advanced_ortg,opp_score,0.009465598397373836
+CON,offensive_four_factors_orb_pct,opp_score,0.0094683352832394
+MIN,advanced_stl_pct,team_score,0.009484465041329626
+ATL,advanced_blk_pct,team_score,0.009494767252890968
+PHO,offensive_four_factors_orb_pct,opp_score,0.009503327511012218
+IND,advanced_stl_pct,opp_score,0.009540763468848235
+LAS,defensive_four_factors_drb_pct,team_score,0.009555517194611932
+IND,team_vs_opp_homeaway_median_score,opp_score,0.009614129879168994
+CON,offensive_four_factors_tov_pct,team_score,0.00961558499573745
+SEA,defensive_four_factors_ft_per_fga,opp_score,0.009629669742967762
+ATL,team_ft_pct,opp_score,0.00968849744163958
+SEA,advanced_ftr,opp_score,0.00969043228885922
+IND,opponent_ft_pct,team_score,0.009729986971725635
+PHO,advanced_ortg,opp_score,0.00977429907932932
+NYL,advanced_drtg,team_score,0.009785534483935472
+PHO,team_ft_pct,opp_score,0.009787625845164679
+LVA,opponent_ft_pct,opp_score,0.009804032170489986
+CON,opponent_3p_pct,opp_score,0.009889074378636044
+MIN,advanced_trb_pct,team_score,0.00993237908222371
+CON,advanced_ftr,opp_score,0.009988865986203611
+CHI,defensive_four_factors_ft_per_fga,opp_score,0.010009597582157675
+NYL,defensive_four_factors_drb_pct,opp_score,0.010167550477046351
+DAL,advanced_trb_pct,team_score,0.010227896512865042
+CON,defensive_four_factors_ft_per_fga,team_score,0.010268341484420372
+CHI,advanced_ast_pct,opp_score,0.010467347713762905
+LVA,team_3p_pct,opp_score,0.01046845151764959
+CHI,advanced_3par,team_score,0.010470844891855005
+DAL,advanced_ortg,opp_score,0.010481221869619377
+ATL,advanced_trb_pct,opp_score,0.010590958041254947
+SEA,defensive_four_factors_drb_pct,team_score,0.010640516601886722
+ATL,defensive_four_factors_tov_pct,opp_score,0.010641351508116662
+IND,advanced_ts_pct,opp_score,0.010646419468807629
+CON,advanced_trb_pct,team_score,0.010688321750004203
+SEA,team_vs_opp_median_score,opp_score,0.010885527586560188
+CON,defensive_four_factors_drb_pct,team_score,0.011015128806064981
+CHI,advanced_ftr,team_score,0.011055468794559861
+NYL,advanced_stl_pct,opp_score,0.01109750675473685
+WAS,day,opp_score,0.011192570618775073
+MIN,advanced_ast_pct,opp_score,0.011272127366232837
+LAS,advanced_ftr,team_score,0.011274899205518066
+CHI,team_vs_opp_median_score,opp_score,0.011294485307439995
+CHI,defensive_four_factors_drb_pct,team_score,0.01134362858010612
+CON,offensive_four_factors_tov_pct,opp_score,0.011421225265552731
+ATL,defensive_four_factors_ft_per_fga,team_score,0.011427272085110931
+CHI,advanced_drtg,team_score,0.011457326741560254
+SEA,offensive_four_factors_tov_pct,team_score,0.01155714527500141
+WAS,advanced_ts_pct,opp_score,0.01162236769877915
+WAS,offensive_four_factors_tov_pct,opp_score,0.011679521131866311
+WAS,advanced_ftr,opp_score,0.01170287893433731
+PHO,Rebecca Allen,team_score,0.011749810886349698
+WAS,opponent_3p_pct,opp_score,0.011840643760136682
+ATL,advanced_blk_pct,opp_score,0.011883892967205097
+PHO,advanced_ast_pct,opp_score,0.01190128743963238
+LAS,offensive_four_factors_tov_pct,opp_score,0.01198672534940093
+DAL,offensive_four_factors_tov_pct,team_score,0.01199599527470709
+ATL,defensive_four_factors_efg_pct,opp_score,0.012039655747482452
+ATL,advanced_ast_pct,opp_score,0.012109645780321613
+PHO,advanced_pace_by_team_day_of_week,opp_score,0.012204391691645793
+LAS,team_vs_opp_homeaway_median_score,opp_score,0.012261179126234227
+DAL,team_day_median_allowed,opp_score,0.012368632334031772
+CON,team_vs_opp_median_score,team_score,0.012434086184814664
+SEA,offensive_four_factors_orb_pct,team_score,0.012526450990425774
+IND,advanced_blk_pct,opp_score,0.01281066446346949
+DAL,advanced_trb_pct,opp_score,0.012814361313822808
+SEA,advanced_3par,team_score,0.012825446179107443
+WAS,defensive_four_factors_tov_pct,opp_score,0.012837093958967002
+IND,opponent_3p_pct,opp_score,0.0128731470195025
+SEA,advanced_pace,opp_score,0.012877645343450365
+MIN,team_vs_opp_median_score,team_score,0.01288083064939916
+MIN,team_vs_opp_median_score,opp_score,0.012974906713174965
+WAS,offensive_four_factors_orb_pct,opp_score,0.013005459005472198
+LAS,team_3p_pct,opp_score,0.013027817247334754
+NYL,month,opp_score,0.013051402790072494
+IND,month,team_score,0.013064429963848295
+SEA,opponent_3p_pct,opp_score,0.013138105599867597
+WAS,team_vs_opp_median_score,team_score,0.013177457159069155
+DAL,team_vs_opp_median_score,opp_score,0.013197070683622249
+PHO,opponent_ft_pct,team_score,0.013220423439744252
+ATL,day,team_score,0.013226082107635121
+PHO,defensive_four_factors_tov_pct,team_score,0.013227625872297255
+LAS,advanced_blk_pct,opp_score,0.013262663338674123
+DAL,offensive_four_factors_orb_pct,opp_score,0.013283523531770536
+MIN,advanced_pace_by_team_day_of_week,opp_score,0.01345685293380924
+PHO,advanced_blk_pct,team_score,0.013579628296948788
+CON,advanced_ast_pct,opp_score,0.013588823207552711
+NYL,advanced_pace,opp_score,0.013592129739509217
+LAS,defensive_four_factors_efg_pct,team_score,0.013649008654602732
+DAL,team_vs_opp_median_score,team_score,0.013702805961761632
+LAS,team_3p_pct,team_score,0.013846879764364774
+IND,team_3p_pct,opp_score,0.013941465493274612
+MIN,defensive_four_factors_ft_per_fga,opp_score,0.014031522467079411
+NYL,defensive_four_factors_tov_pct,opp_score,0.014056480227122477
+ATL,opponent_3p_pct,team_score,0.014092171844259769
+ATL,advanced_trb_pct,team_score,0.014127369133083642
+SEA,offensive_four_factors_tov_pct,opp_score,0.014137559671194528
+SEA,team_vs_opp_median_score,team_score,0.014188744342469846
+WAS,advanced_stl_pct,opp_score,0.014223067964320869
+MIN,advanced_3par,opp_score,0.01452416056778477
+SEA,month,team_score,0.01459593350091464
+NYL,team_vs_opp_homeaway_median_score,team_score,0.014768145771637877
+MIN,offensive_four_factors_tov_pct,opp_score,0.014814297933235182
+DAL,opponent_ft_pct,opp_score,0.014833522766759432
+LAS,advanced_trb_pct,opp_score,0.015113828208475535
+CHI,team_3p_pct,opp_score,0.015263269004760315
+MIN,opponent_3p_pct,opp_score,0.015278162907972842
+DAL,advanced_blk_pct,opp_score,0.015290410629721436
+IND,defensive_four_factors_ft_per_fga,opp_score,0.015344301036344996
+PHO,team_vs_opp_median_score,team_score,0.015389089891177998
+MIN,advanced_ftr,team_score,0.015391458029832083
+PHO,advanced_pace,team_score,0.015426837472071537
+LVA,team_vs_opp_median_score,team_score,0.01559365075853144
+SEA,defensive_four_factors_tov_pct,opp_score,0.01569596785985663
+MIN,offensive_four_factors_tov_pct,team_score,0.01590906325466926
+SEA,advanced_stl_pct,opp_score,0.01600568783286972
+ATL,team_vs_opp_homeaway_median_score,team_score,0.01610076931027473
+LAS,day,team_score,0.016196512981539478
+SEA,day,opp_score,0.0163824632814128
+PHO,opponent_fg_pct,team_score,0.01640222735584841
+MIN,team_ft_pct,team_score,0.01640620917344302
+WAS,advanced_3par,team_score,0.016680945436744424
+CHI,advanced_3par,opp_score,0.01682133687669726
+ATL,offensive_four_factors_orb_pct,opp_score,0.01687797955451912
+PHO,opponent_3p_pct,team_score,0.016989861682006238
+PHO,opponent_ft_pct,opp_score,0.017076448934714574
+DAL,offensive_four_factors_orb_pct,team_score,0.01709406122354853
+LVA,month_by_team_day_of_week,opp_score,0.017745966499989524
+SEA,team_day_median_allowed,team_score,0.01776556180086767
+MIN,advanced_ortg,opp_score,0.01790928739161123
+CHI,advanced_trb_pct,team_score,0.01794636396272488
+SEA,advanced_pace_by_team_day_of_week,opp_score,0.018062971884311826
+SEA,advanced_ftr,team_score,0.018065841672233324
+ATL,advanced_drtg,team_score,0.018112646103739777
+CON,day,opp_score,0.018226891806999292
+ATL,opponent_ft_pct,team_score,0.0182823857271897
+IND,advanced_pace,opp_score,0.018403498220424065
+PHO,advanced_trb_pct,team_score,0.018542510968841193
+MIN,team_vs_opp_homeaway_median_score,opp_score,0.018664561630075568
+WAS,team_3p_pct,team_score,0.01866904956220281
+SEA,team_vs_opp_homeaway_median_score,team_score,0.018675024758054107
+LAS,advanced_3par,opp_score,0.018951357798930427
+PHO,team_3p_pct,team_score,0.019017559081566427
+SEA,team_3p_pct,team_score,0.019195346576871126
+PHO,advanced_3par,opp_score,0.019269693453313887
+CHI,opponent_fg_pct,opp_score,0.019309016540696097
+League,advanced_ts_pct,team_score,0.01943220399771484
+PHO,defensive_four_factors_ft_per_fga,opp_score,0.019480873107271618
+LAS,advanced_stl_pct,team_score,0.019720635807964692
+WAS,opponent_ft_pct,opp_score,0.019964739245692753
+LAS,advanced_ortg,opp_score,0.020071677004778188
+MIN,offensive_four_factors_orb_pct,team_score,0.0204814856479248
+PHO,advanced_drtg,team_score,0.020920461676143243
+IND,team_3p_pct,team_score,0.021152236406740667
+ATL,offensive_four_factors_orb_pct,team_score,0.021158983848700956
+CHI,defensive_four_factors_tov_pct,team_score,0.021333544098152506
+LAS,defensive_four_factors_drb_pct,opp_score,0.02169229770824961
+CON,advanced_trb_pct,opp_score,0.02257932984276965
+ATL,advanced_ast_pct,team_score,0.022680035892317287
+DAL,advanced_3par,opp_score,0.02268779851224198
+DAL,advanced_ftr,opp_score,0.02403658165326398
+WAS,opponent_fg_pct,opp_score,0.024417076561306678
+NYL,opponent_3p_pct,team_score,0.02460152213871383
+IND,defensive_four_factors_efg_pct,opp_score,0.02551764034560671
+PHO,advanced_pace,opp_score,0.025564080157611743
+WAS,defensive_four_factors_ft_per_fga,opp_score,0.025830220917091088
+CON,advanced_pace,team_score,0.025963177313915294
+LAS,advanced_ftr,opp_score,0.026104400271154283
+IND,defensive_four_factors_drb_pct,team_score,0.02644865640924642
+MIN,defensive_four_factors_efg_pct,opp_score,0.027255876191837492
+ATL,offensive_four_factors_tov_pct,opp_score,0.02820343585378056
+NYL,defensive_four_factors_efg_pct,opp_score,0.02879702718083786
+LAS,advanced_ts_pct,opp_score,0.029191562180941672
+ATL,month,opp_score,0.029288701263250498
+CHI,defensive_four_factors_efg_pct,opp_score,0.029979720241616586
+MIN,team_vs_opp_homeaway_median_score,team_score,0.030321010231927136
+WAS,advanced_ts_pct,team_score,0.031841655307306836
+MIN,advanced_pace,opp_score,0.03234202192338059
+LAS,defensive_four_factors_efg_pct,opp_score,0.03329979050836571
+NYL,advanced_ast_pct,opp_score,0.033599630276001734
+NYL,opponent_fg_pct,opp_score,0.0347259347947186
+MIN,defensive_four_factors_tov_pct,opp_score,0.03496040434320456
+MIN,team_day_median_allowed,opp_score,0.035316147527210996
+MIN,defensive_four_factors_ft_per_fga,team_score,0.035613150568518825
+ATL,advanced_stl_pct,opp_score,0.03646795230877334
+MIN,advanced_ftr,opp_score,0.03673689697477357
+LAS,advanced_pace,opp_score,0.03689554773508109
+IND,offensive_four_factors_tov_pct,opp_score,0.03719616552896989
+SEA,advanced_ast_pct,opp_score,0.03811017569929887
+WAS,team_vs_opp_homeaway_median_score,team_score,0.03839825428049033
+WAS,advanced_pace,opp_score,0.038646490401339835
+PHO,defensive_four_factors_efg_pct,team_score,0.03866166074674448
+LAS,defensive_four_factors_tov_pct,opp_score,0.038711303237090496
+IND,team_vs_opp_median_score,team_score,0.03959300260612052
+WAS,defensive_four_factors_efg_pct,opp_score,0.0412170883817756
+SEA,advanced_pace,team_score,0.042948459742875984
+CHI,opponent_3p_pct,opp_score,0.04328762997433169
+LVA,defensive_four_factors_efg_pct,opp_score,0.04330969126830601
+CHI,day,opp_score,0.04489710646707822
+DAL,opponent_3p_pct,opp_score,0.04541164139665628
+IND,opponent_fg_pct,opp_score,0.04554238857617406
+CHI,advanced_ts_pct,team_score,0.046892465304420004
+MIN,team_3p_pct,team_score,0.04726364109527352
+SEA,opponent_fg_pct,opp_score,0.05136162370334388
+ATL,advanced_pace,opp_score,0.05233739960541313
+PHO,team_vs_opp_homeaway_median_score,team_score,0.05280889840698004
+ATL,opponent_fg_pct,opp_score,0.053157400817456874
+NYL,advanced_pace,team_score,0.053642166563116545
+ATL,offensive_four_factors_tov_pct,team_score,0.056079462587667155
+CON,advanced_pace,opp_score,0.05784754536299949
+LAS,opponent_fg_pct,opp_score,0.06279683998706397
+SEA,team_ft_pct,team_score,0.06315242124639717
+LAS,defensive_four_factors_ft_per_fga,opp_score,0.06333202126835129
+League,team_vs_opp_homeaway_median_score,team_score,0.06390879187813973
+CON,team_vs_opp_homeaway_median_score,team_score,0.06841615200134532
+League,advanced_pace,team_score,0.0688113024986959
+LAS,team_vs_opp_homeaway_median_score,team_score,0.07462307631431475
+LAS,advanced_ts_pct,team_score,0.08233373891278438
+League,advanced_pace,opp_score,0.08562877607529451
+CON,advanced_ts_pct,team_score,0.08909585360088394
+MIN,opponent_fg_pct,opp_score,0.09000293128394982
+PHO,defensive_four_factors_efg_pct,opp_score,0.10003312182917466
+SEA,defensive_four_factors_efg_pct,opp_score,0.10189679838101127
+CHI,advanced_pace,team_score,0.10266284820612875
+IND,advanced_ts_pct,team_score,0.10757433305061417
+LVA,team_vs_opp_homeaway_median_score,team_score,0.10863128954853978
+DAL,team_vs_opp_homeaway_median_score,team_score,0.10969173653782405
+CON,defensive_four_factors_efg_pct,opp_score,0.12570505072304036
+SEA,advanced_ts_pct,team_score,0.13488979419241093
+CHI,team_vs_opp_homeaway_median_score,team_score,0.1381318816462155
+DAL,defensive_four_factors_efg_pct,opp_score,0.14486760285274836
+DAL,advanced_ts_pct,team_score,0.1459507695116091
+NYL,advanced_ts_pct,team_score,0.1852518969040753
+PHO,advanced_ts_pct,team_score,0.1891854067158482
+PHO,advanced_drtg,opp_score,0.20049249445810713
+MIN,advanced_ortg,team_score,0.20573737463558572
+CON,opponent_fg_pct,opp_score,0.20601029019044723
+ATL,advanced_ortg,team_score,0.23393745327740068
+IND,team_vs_opp_homeaway_median_score,team_score,0.27281693862568596
+LVA,advanced_ts_pct,team_score,0.34286632879165724
+IND,advanced_ortg,team_score,0.39696938308599694
+CON,advanced_drtg,opp_score,0.4297405483212195
+LVA,advanced_ortg,team_score,0.44215337689951256
+ATL,advanced_ts_pct,team_score,0.473808814876051
+PHO,advanced_ortg,team_score,0.47920419184159313
+MIN,advanced_ts_pct,team_score,0.48173588410439855
+PHO,opponent_fg_pct,opp_score,0.4948645651358313
+LAS,advanced_drtg,opp_score,0.5157854523005347
+SEA,advanced_ortg,team_score,0.530181153157074
+MIN,advanced_drtg,opp_score,0.5454712438734779
+CHI,advanced_ortg,team_score,0.5542343164715826
+DAL,advanced_drtg,opp_score,0.5804002763095155
+DAL,advanced_ortg,team_score,0.5881909338265723
+SEA,advanced_drtg,opp_score,0.6114252805785084
+NYL,advanced_ortg,team_score,0.6273379831348375
+ATL,advanced_drtg,opp_score,0.649257190170326
+CON,advanced_ortg,team_score,0.6659591293170687
+LAS,advanced_ortg,team_score,0.6878721905419929
+WAS,advanced_drtg,opp_score,0.6896602736221826
+IND,advanced_drtg,opp_score,0.7012646087175951
+CHI,advanced_drtg,opp_score,0.7125242394014376
+NYL,advanced_drtg,opp_score,0.7543951406064492
+WAS,advanced_ortg,team_score,0.7840048965159031
+League,advanced_ortg,team_score,0.7906273436966906
+LVA,advanced_drtg,opp_score,0.8226817354562417
+League,advanced_drtg,opp_score,0.8389996479746487
