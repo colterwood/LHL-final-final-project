@@ -1,0 +1,8 @@
+{
+  "team": "LAS",
+  "best_mae": 2.771,
+  "learning_rate": 0.1,
+  "max_depth": 2,
+  "n_estimators": 500,
+  "subsample": 0.6
+}

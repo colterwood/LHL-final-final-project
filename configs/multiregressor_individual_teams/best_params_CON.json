@@ -1,0 +1,8 @@
+{
+  "team": "CON",
+  "best_mae": 3.4496,
+  "learning_rate": 0.09,
+  "max_depth": 3,
+  "n_estimators": 500,
+  "subsample": 0.8
+}

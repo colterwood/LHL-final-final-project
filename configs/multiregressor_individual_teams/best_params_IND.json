@@ -1,0 +1,8 @@
+{
+  "team": "IND",
+  "best_mae": 3.2469,
+  "learning_rate": 0.05,
+  "max_depth": 4,
+  "n_estimators": 500,
+  "subsample": 0.6
+}

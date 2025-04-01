@@ -1,0 +1,8 @@
+{
+  "team": "MIN",
+  "best_mae": 3.8595,
+  "learning_rate": 0.07,
+  "max_depth": 2,
+  "n_estimators": 700,
+  "subsample": 0.4
+}

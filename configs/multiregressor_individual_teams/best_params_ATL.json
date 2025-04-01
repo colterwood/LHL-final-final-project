@@ -1,0 +1,8 @@
+{
+  "team": "ATL",
+  "best_mae": 3.4844,
+  "learning_rate": 0.03,
+  "max_depth": 2,
+  "n_estimators": 400,
+  "subsample": 0.4
+}
