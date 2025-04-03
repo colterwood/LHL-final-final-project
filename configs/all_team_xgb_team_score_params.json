@@ -1,0 +1,106 @@
+{
+    "ATL": {
+        "n_estimators": 100,
+        "max_depth": 6,
+        "learning_rate": 0.02,
+        "subsample": 0.7,
+        "colsample_bytree": 0.8,
+        "min_child_weight": 5
+    },
+    "CHI": {
+        "n_estimators": 100,
+        "max_depth": 4,
+        "learning_rate": 0.005,
+        "subsample": 1,
+        "colsample_bytree": 1,
+        "min_child_weight": 1
+    },
+    "CON": {
+        "n_estimators": 200,
+        "max_depth": 4,
+        "learning_rate": 0.02,
+        "subsample": 0.7,
+        "colsample_bytree": 0.9,
+        "min_child_weight": 4
+    },
+    "DAL": {
+        "n_estimators": 100,
+        "max_depth": 2,
+        "learning_rate": 0.002,
+        "subsample": 0.7,
+        "colsample_bytree": 0.9,
+        "min_child_weight": 3
+    },
+    "IND": {
+        "n_estimators": 100,
+        "max_depth": 2,
+        "learning_rate": 0.01,
+        "subsample": 0.9,
+        "colsample_bytree": 0.8,
+        "min_child_weight": 4
+    },
+    "LAS": {
+        "n_estimators": 100,
+        "max_depth": 4,
+        "learning_rate": 0.005,
+        "subsample": 0.9,
+        "colsample_bytree": 0.9,
+        "min_child_weight": 5
+    },
+    "MIN": {
+        "n_estimators": 100,
+        "max_depth": 2,
+        "learning_rate": 0.003,
+        "subsample": 0.8,
+        "colsample_bytree": 0.9,
+        "min_child_weight": 10
+    },
+    "NYL": {
+        "n_estimators": 100,
+        "max_depth": 6,
+        "learning_rate": 0.005,
+        "subsample": 1,
+        "colsample_bytree": 1,
+        "min_child_weight": 2
+    },
+    "PHO": {
+        "n_estimators": 200,
+        "max_depth": 4,
+        "learning_rate": 0.01,
+        "subsample": 1,
+        "colsample_bytree": 1,
+        "min_child_weight": 4
+    },
+    "SEA": {
+        "n_estimators": 100,
+        "max_depth": 5,
+        "learning_rate": 0.001,
+        "subsample": 1,
+        "colsample_bytree": 1,
+        "min_child_weight": 4
+    },
+    "WAS": {
+        "n_estimators": 100,
+        "max_depth": 4,
+        "learning_rate": 0.01,
+        "subsample": 1,
+        "colsample_bytree": 1,
+        "min_child_weight": 6
+    },
+    "LVA": {
+        "n_estimators": 100,
+        "max_depth": 4,
+        "learning_rate": 0.004,
+        "subsample": 0.8,
+        "colsample_bytree": 0.8,
+        "min_child_weight": 5
+    },
+    "League": {
+        "n_estimators": 300,
+        "max_depth": 2,
+        "learning_rate": 0.02,
+        "subsample": 1,
+        "colsample_bytree": 1,
+        "min_child_weight": 1
+    }
+}
