@@ -1,11 +1,3 @@
-feature,importance
-advanced_ortg,0.571692
-team_vs_opp_homeaway_median_score,0.14475133
-advanced_ts_pct,0.12223484
-advanced_pace,0.07461827
-team_vs_opp_median_score,0.03104515
-advanced_stl_pct,0.02146665
-advanced_pace_by_team_day_of_week,0.010568985
-defensive_four_factors_efg_pct,0.010159013
-opponent_fg_pct,0.0074436106
-advanced_drtg,0.006020097
+version https://git-lfs.github.com/spec/v1
+oid sha256:af3f1b6a59ce15ccb05763d8fffd066bccbf761d400a36caf5c426fb756b8031
+size 347
